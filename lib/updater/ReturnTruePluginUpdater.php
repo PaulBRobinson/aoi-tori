@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * This file is an updater system that was to be used in premium plugins
+ * I have since decided to release this plugin for free but have kept this here for future use
+ */
+ 
 if(!class_exists('ReturnTruePluginUpdater')) {
 
 	class ReturnTruePluginUpdater {
@@ -13,7 +18,7 @@ if(!class_exists('ReturnTruePluginUpdater')) {
 		private $plugin_file;
 
 		public function __construct($plugin_id, $plugin_name, $text_domain, $api_url, $plugin_file = '') {
-			
+
 			//Setup private vars
 			$this->plugin_id = $plugin_id;
 	        $this->plugin_name = $plugin_name;
@@ -36,22 +41,22 @@ if(!class_exists('ReturnTruePluginUpdater')) {
 			}
 
 			return false;
-		} 
+		}
 
 		public function in_plugin_update_message( $plugin_data, $r ) {
-		
+
 			// validate
 			if($this->is_license_valid())
 				return;
 
 			$m = __('To enable updates, please enter your license key on the <a href="%s">Options</a> page.', 'acf');
-			
+
 			echo '<br />' . sprintf( $m, admin_url('options-general.php?page=options-general.php-aoi-tori-options'));
-		
+
 		}
 
 		public function allow_custom_update_url($allow, $host, $url) {
-			
+
 			if($host == 'return-true.com')
 				$allow = true;
 
@@ -73,21 +78,21 @@ if(!class_exists('ReturnTruePluginUpdater')) {
 		                'version' => $info->version,
 		                'slug' => $args->slug,
 		                'download_link' => $info->package_url,
-		 
+
 		                'tested' => isset( $info->tested ) ? $info->tested : '',
 		                'requires' => isset( $info->requires ) ? $info->requires : '',
 		                'last_updated' => isset( $info->last_updated ) ? $info->last_updated : '',
 		                'homepage' => isset( $info->description_url ) ? $info->description_url : '',
-		 
+
 		                'sections' => array(
 		                    'description' => $info->description,
 		                ),
-		 
+
 		                'banners' => array(
 		                    'low' => isset( $info->banner_low ) ? $info->banner_low : '',
 		                    'high' => isset( $info->banner_high ) ? $info->banner_high : ''
 		                ),
-		 
+
 		                'external' => true
 					);
 				}

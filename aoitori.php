@@ -3,17 +3,17 @@
 Plugin Name: Aoi Tori - Twitter Plugin
 Plugin URI: http://return-true.com/
 Description: A simple Twitter plugin designed to show a users Tweets. Includes built-in templates, custom templates, color options...
-Version: 3.0
+Version: 1.0
 Author: Paul Robinson
 Author URI: http://return-true.com
 Text Domain: aoitori
 Domain Path: /languages
 
-	Copyright (c) 2015 Paul Robinson (http://return-true.com)
-	Twitter Stream is released under the GNU General Public License (GPL)
+	Copyright (c) 2016 Paul Robinson (http://return-true.com)
+	Aoi Tori is released under the GNU General Public License (GPL)
 	http://www.gnu.org/licenses/gpl.txt
 
-	This is a WordPress plugin (http://wordpress.org).
+	This is a WordPress plugin (http://wordpress.org). This plugin is the successor to Twitter Stream which I created a long while ago.
 
   NOTE: Titan Framework auto-prefixes the option names with the registered plugin name, that is why none of the Titan options have been prefixed
         Options that do not use Titan and are saved directly to WordPress are prefixed with the plugin name.
@@ -92,17 +92,6 @@ Class AoiTori {
     $this->pluginUrl = plugin_dir_url( __FILE__ );
     $this->apiUrl = 'https://api.twitter.com/1.1/';
 
-    //Instance Updater
-    new ReturnTruePluginUpdater(
-      //'58', //Debug/Local Testing Only
-      '4339',
-      'aoitori',
-      'aoitori',
-      //'http://wp.dev/api/rt-update-api/v1', //Debug/Local Testing Only
-      'http://return-true.com/api/rt-update-api/v1', //Live Only
-      __FILE__
-    );
-
     //Add text domain for translations
     add_action('plugins_loaded', array($this, 'loadPluginTextdomain'));
 
@@ -142,6 +131,7 @@ Class AoiTori {
   }
 
   public function registerWidget() {
+    // Widget class is autoloaded via Composer
     if(class_exists('AoiToriWidget'))
       register_widget('AoiToriWidget');
   }
@@ -318,7 +308,7 @@ Class AoiTori {
         </div> -->
 
         <div class="return-to-dashboard">
-          <?php 
+          <?php
           printf(
             __(
               '<a href="%s">Go to Settings &rarr; Aoi Tori Options</a>', 'aoitori'
@@ -361,28 +351,6 @@ Class AoiTori {
 
     $instructions->createOption( array(
       'type' => 'twitter-how-to',
-    ) );
-
-    $license = $panel->createTab( array(
-      'name' => __('License', 'aoitori'),
-    ) );
-
-    $license->createOption( array(
-      'name' => __('Plugin License', 'aoitori'),
-      'type' => 'heading',
-    ) );
-
-    $license->createOption( array(
-      'name' => __('Enter License Key', 'aoitori'),
-      'id' => 'plugin_license',
-      'type' => 'license',
-      'plugin_name' => $this->pluginName,
-      'product_permalink' => 'ZRfm',
-      'server' => 'https://api.gumroad.com/v2/licenses/verify',
-    ) );
-
-    $license->createOption( array(
-      'type' => 'save',
     ) );
 
     $keys = $panel->createTab( array(
@@ -649,7 +617,7 @@ Class AoiTori {
       'type' => 'twitter-how-to',
       'faq' => true,
       'how-to' => false,
-    ) );    
+    ) );
 
   }
 
@@ -806,7 +774,7 @@ Class AoiTori {
       return $twig->render($template, array('tweets' => $rawData));
     else
       return $rawData;
-    
+
   }
 
   public function purgeCache($name) {
@@ -828,7 +796,7 @@ $aoiTori = new AoiTori();
 
 /**
  * Create a function that can be easily accessed in themes without needing to globalize variables.
- * @param  array   $args 
+ * @param  array   $args
  * @param  boolean $echo
  * @echo/return String of tweets
  */

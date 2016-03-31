@@ -30,14 +30,14 @@ class TitanFrameworkOptionTwitterHowTo extends TitanFrameworkOption {
 				</p>
 				<ol>
 					<li>
-						<?php 
+						<?php
 							printf(
 								__('Go to the <a href="%s" target="aoitori_app_tab">Twitter Application Management</a> website. Click \'Create New App\'.', 'aoitori'),
 								'https://apps.twitter.com/'
 							);
 						?>
 					</li>
-					<li><?php __('Enter details based on the following.', 'aoitori'); ?>
+					<li><?php _e('Enter details based on the following.', 'aoitori'); ?>
 						<ul>
 							<li>
 								<?php
@@ -83,11 +83,11 @@ class TitanFrameworkOptionTwitterHowTo extends TitanFrameworkOption {
 						?>
 					</li>
 					<li>
-						<?php 
+						<?php
 							printf(
 								__('Check the <a href="%s" target="aoitori_app_tab">documentation</a> for more detailed information on how to use the plugin past this point. It is highly recommended you read though it at least once.', 'aoitori'),
 								plugin_dir_url( __FILE__ ) . '../../docs-aoi-tori.html'
-							); 
+							);
 						?>
 					</li>
 				</ol>
@@ -140,7 +140,7 @@ class TitanFrameworkOptionTwitterHowTo extends TitanFrameworkOption {
 			<p><?php _e('Please double check your server has the PHP extention cURL installed, although you should have seen other errors before now if you don\'t. Also make sure you have PHP 5.3 or above, again you should have hit a problem before this point if you do not have either of these, but it is worth a check. If you are missing either of these requirements please ask your host to install them for you. Any good host would normally have both these requirements installed, if they will not install them I would strongly advise finding a more accommodating host.', 'aoitori'); ?></p>
 			<h3><?php _e('My Tokens Are Still Invalid. Eeek!', 'aoitori'); ?></h3>
 			<p>
-				<?php 
+				<?php
 					printf(
 						__('You may be one of the few people who have an unusual server setup or have a conflict caused by another plugin or theme. While I try to limit these issues it is impossible to account for the multitude of setups &amp; combinations of plugins/themes out there. You will more than likely need 1-on-1 support. I am more than happy to provide you with support for any issue you are having with my plugin. Please send an email to <a href="%s">support@return-true.com</a> to contact me for help.', 'aoitori'),
 							'support@return-true.com'
