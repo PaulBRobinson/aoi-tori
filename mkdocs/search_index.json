@@ -1,0 +1,364 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Aoi Tori Documentation\n\n\n\n\nThis is the documentation for the WordPress plugin Aoi Tori created \n maintained by Paul Robinson.\n\n\nWhat is Aoi Tori?\n\n\nAoi Tori is a simple WordPress plugin that allows you to show your Tweet's on your WordPress blog with very little fuss or effort.\n\n\nWhile there are instructions on how to install and use the plugin on the WordPress plugin directory, and on the install splash screen, this documentation is designed to help though having trouble with the plugin or who want to delve into the more advanced features available.\n\n\nRequirements\n\n\nDue to some of the code used in Aoi Tori there are a few pre-requisites. There shouldn't be anything out of the ordinary that any good host would not already have available, but please do check first if you are unsure.\n\n\n\n\nPHP 5.3.10\n or greater (PHP 5.5 is highly recommended)\n\n\ncURL PHP\n Extension\n\n\ncURL\n must be able to make \nHTTPS\n calls", 
+            "title": "About"
+        }, 
+        {
+            "location": "/#aoi-tori-documentation", 
+            "text": "This is the documentation for the WordPress plugin Aoi Tori created   maintained by Paul Robinson.", 
+            "title": "Aoi Tori Documentation"
+        }, 
+        {
+            "location": "/#what-is-aoi-tori", 
+            "text": "Aoi Tori is a simple WordPress plugin that allows you to show your Tweet's on your WordPress blog with very little fuss or effort.  While there are instructions on how to install and use the plugin on the WordPress plugin directory, and on the install splash screen, this documentation is designed to help though having trouble with the plugin or who want to delve into the more advanced features available.", 
+            "title": "What is Aoi Tori?"
+        }, 
+        {
+            "location": "/#requirements", 
+            "text": "Due to some of the code used in Aoi Tori there are a few pre-requisites. There shouldn't be anything out of the ordinary that any good host would not already have available, but please do check first if you are unsure.   PHP 5.3.10  or greater (PHP 5.5 is highly recommended)  cURL PHP  Extension  cURL  must be able to make  HTTPS  calls", 
+            "title": "Requirements"
+        }, 
+        {
+            "location": "/features/", 
+            "text": "Features\n\n\nAoi Tori is the successor to Twitter Stream, a WordPress plugin I authored quite a long time ago. It is designed to add features I wanted to add back then, but didn't have the knowledge to implement.\n\n\nMain Features\n\n\n\n\nSimpler oAuth Authentication with Twitter\n\n\nCustom built options page\n\n\nWidget or PHP function (shortcode coming soon)\n\n\nA small selection of built in display templates\n\n\nRoll your own template with ease\n\n\nCustomize colors easily (on built in templates)\n\n\nCustomize margins/paddings easily (on built in templates)", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/features/#features", 
+            "text": "Aoi Tori is the successor to Twitter Stream, a WordPress plugin I authored quite a long time ago. It is designed to add features I wanted to add back then, but didn't have the knowledge to implement.", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/features/#main-features", 
+            "text": "Simpler oAuth Authentication with Twitter  Custom built options page  Widget or PHP function (shortcode coming soon)  A small selection of built in display templates  Roll your own template with ease  Customize colors easily (on built in templates)  Customize margins/paddings easily (on built in templates)", 
+            "title": "Main Features"
+        }, 
+        {
+            "location": "/install/", 
+            "text": "Installation\n\n\nInstallation is pretty simple, just search on the WordPress plugin directory from your WordPress admin dashboard for 'Aoi Tori' and click install. Activate and you are ready to go. In case you want to go the old fashioned way, here are manual install instructions. If you prefer Git, then that's here too.\n\n\nManual Install\n\n\n\n\nDownload the plugin from the WordPress plugin directory, or via the GitHub repo.\n\n\nConnect to your server using SFTP.\n\n\nNavigate to your WordPress plugins directory. If the zip you downloaded has a folder inside, upload the folder to the plugins directory. If it does not, create a folder called 'aoi-tori' and upload the contents of the zip into that folder.\n\n\nLogin to the WordPress admin, go to plugins, and activate.\n\n\n\n\nGit Install\n\n\n\n\nConnect to your server via SSH.\n\n\nNavigate to the plugins directory.\n\n\nRun \ngit clone https://github.com/nabesaka/aoi-tori aoi-tori\n\n\nLogin to the WordPress admin, go to plugins, activate.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/install/#installation", 
+            "text": "Installation is pretty simple, just search on the WordPress plugin directory from your WordPress admin dashboard for 'Aoi Tori' and click install. Activate and you are ready to go. In case you want to go the old fashioned way, here are manual install instructions. If you prefer Git, then that's here too.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/install/#manual-install", 
+            "text": "Download the plugin from the WordPress plugin directory, or via the GitHub repo.  Connect to your server using SFTP.  Navigate to your WordPress plugins directory. If the zip you downloaded has a folder inside, upload the folder to the plugins directory. If it does not, create a folder called 'aoi-tori' and upload the contents of the zip into that folder.  Login to the WordPress admin, go to plugins, and activate.", 
+            "title": "Manual Install"
+        }, 
+        {
+            "location": "/install/#git-install", 
+            "text": "Connect to your server via SSH.  Navigate to the plugins directory.  Run  git clone https://github.com/nabesaka/aoi-tori aoi-tori  Login to the WordPress admin, go to plugins, activate.", 
+            "title": "Git Install"
+        }, 
+        {
+            "location": "/setup/", 
+            "text": "Setup\n\n\nSetup for Twitter Stream was a bit of a chore. Anyone who used it will know of the awkward dance you had to complete with Twitter to grant access to your newly installed plugin. I have tried my best to make it as simple as possible to setup Aoi Tori. Hopefully you will find it much easier to get started.\n\n\nCreate A Twitter App\n\n\nFirst you will need to create a Twitter Application. Head to the \nTwitter Application Management\n website and click 'Create New App'. Enter details based on the following information:\n\n\n\n\nName:\n The name for your application. Can be whatever you wish, but cannot include the word Twitter.\n\n\nDescription:\n A short description for your application. Again, can be whatever you wish.\n\n\nWebsite:\n Just enter your home web address.\n\n\nCallback URL:\n Leave this field blank. If you fill this field in it may cause an error, please leave it blank.\n\n\n\n\nAgree to the terms (after reading them, of course) and click 'Create your Twitter Application'. Click on the 'Keys and Access Tokens' tab and copy:\n\n\n\n\nConsumer Key\n\n\nConsumer Secret\n\n\nAccess Token\n\n\nAccess Token Secret\n\n\n\n\nTo The WordPress Admin\n\n\nGo to your WordPress Admin and head to Aoi Tori's options page, located under the Settings menu, click on the 'API Keys' tab and enter each key into its relevant field. Then don't forget to hit save.\n\n\nAfter you save Aoi Tori will automatically check your keys by making a quick validation request to Twitter to make sure they are valid. This also serves as a check to make sure it can access Twitter's server. If you see green, you are good to go. If you see red, please check the Troubleshooting section of these documentations.", 
+            "title": "Setup"
+        }, 
+        {
+            "location": "/setup/#setup", 
+            "text": "Setup for Twitter Stream was a bit of a chore. Anyone who used it will know of the awkward dance you had to complete with Twitter to grant access to your newly installed plugin. I have tried my best to make it as simple as possible to setup Aoi Tori. Hopefully you will find it much easier to get started.", 
+            "title": "Setup"
+        }, 
+        {
+            "location": "/setup/#create-a-twitter-app", 
+            "text": "First you will need to create a Twitter Application. Head to the  Twitter Application Management  website and click 'Create New App'. Enter details based on the following information:   Name:  The name for your application. Can be whatever you wish, but cannot include the word Twitter.  Description:  A short description for your application. Again, can be whatever you wish.  Website:  Just enter your home web address.  Callback URL:  Leave this field blank. If you fill this field in it may cause an error, please leave it blank.   Agree to the terms (after reading them, of course) and click 'Create your Twitter Application'. Click on the 'Keys and Access Tokens' tab and copy:   Consumer Key  Consumer Secret  Access Token  Access Token Secret", 
+            "title": "Create A Twitter App"
+        }, 
+        {
+            "location": "/setup/#to-the-wordpress-admin", 
+            "text": "Go to your WordPress Admin and head to Aoi Tori's options page, located under the Settings menu, click on the 'API Keys' tab and enter each key into its relevant field. Then don't forget to hit save.  After you save Aoi Tori will automatically check your keys by making a quick validation request to Twitter to make sure they are valid. This also serves as a check to make sure it can access Twitter's server. If you see green, you are good to go. If you see red, please check the Troubleshooting section of these documentations.", 
+            "title": "To The WordPress Admin"
+        }, 
+        {
+            "location": "/useage/", 
+            "text": "Useage\n\n\nThere are two options available to you for using Aoi Tori. For those wishing to get started straight away you can use a Widget, which can be found in the Widget screen in your WordPress admin. For those who need something more advanced there is a PHP function available which allows you to place the output where ever you'd like.\n\n\nWidget\n\n\nTo use the widget do the following. \nPlease note this will only work if your theme is Widgetized\n\n\n\n\nGo to Appearence \u2192 Widgets\n\n\nOpen up the Widgetized area you wish to add the widget too.\n\n\nLook for the 'Aoi Tori Widget' in the list of widgets to the left.\n\n\nDrag the widget over to the widgetized area.\n\n\nAdjust the options as needed.\n\n\n\n\nPHP Function\n\n\nMore advanced users that are familiar with PHP \n their theme can use the PHP function provided to have the tweets output anywhere you wish, not just in a widgetized area.\n\n\nTo use the function just use \naoiToriOutput($args, $echo)\n somewhere in your theme. I advise creating a child theme if you are using a purchased or WordPress theme directory theme as any updates will wipe edits such as this. More on creating a child theme can be found in the \nWordPress Codex\n.\n\n\nMore information on the parameters that can be passed to the function can be found below.\n\n\nNote:\n Currently the widget \n PHP function use the options you have set via the options page, other than changing the options passed to Twitter it is currently not possible to override the options page settings such as colors and template used.\n\n\nPHP Function Usage\n\n\nIf you wish to use the PHP function there are a few things to know. The basic usage is as follows:\n\n\naoiToriOutput( $args = array(), $echo = true );\n\n\n\n\nThe first parameter is an Array. The options available on that Array will be covered below. The second parameter is a Boolean and tells the plugin if the data should be echoed or returned to a variable.\n\n\nNote:\n When using the return option, please be aware that it will return the raw data from Twitter. That is data that has not been passed through Aoi Tori's templating system.\n\n\nHere are the options available to be set in the \n$args\n Array. There are no required items, however not setting them will result in the plugin using its defaults.\n\n\nscreen_name\n\n\nThis is the Twitter Screen Name used to determine whose Tweets to show. You can use any username however the tweets will only be shown if the user's timeline is public. If you wish to show a private timeline the user that the authorized the plugin has permission to see that users tweets. \nDefault:\n \nEmpty\n\n\ncount\n\n\nDetermines how many Tweets are returned by Twitter. This can be anything up to 3200. \nDefault:\n \n10\n\n\nexclude_replies\n\n\nIf set to true this will exclude any tweet that starts with a reply to another Twitter screen name. A Tweet that contains a mention elsewhere in the Tweet will not be excluded. Please note that Twitter removes these Tweets after retrieving them, this can result in Twitter returning less than the amount requested using the \ncount\n option. \nDefault:\n \nfalse\n\n\ninclude_rts\n\n\nIf set to false this will exclude ReTweets. Again Twitter removes these after returning the Tweets and therefore it may result in Twitter returning less than the amount requested using the \ncount\n options. \nDefault:\n \nfalse\n\n\ncache_time\n\n\nDetermines how long the data returned from Twitter is cached for. Data is cached using a WordPress Transient. The cache time specified is passed to the expiration parameter or \nset_transient()\n. Since this option should be provided in minutes the value set is converted to seconds using the \nMINUTES_IN_SECONDS\n constant. \nDefault:\n \n30", 
+            "title": "Useage"
+        }, 
+        {
+            "location": "/useage/#useage", 
+            "text": "There are two options available to you for using Aoi Tori. For those wishing to get started straight away you can use a Widget, which can be found in the Widget screen in your WordPress admin. For those who need something more advanced there is a PHP function available which allows you to place the output where ever you'd like.", 
+            "title": "Useage"
+        }, 
+        {
+            "location": "/useage/#widget", 
+            "text": "To use the widget do the following.  Please note this will only work if your theme is Widgetized   Go to Appearence \u2192 Widgets  Open up the Widgetized area you wish to add the widget too.  Look for the 'Aoi Tori Widget' in the list of widgets to the left.  Drag the widget over to the widgetized area.  Adjust the options as needed.", 
+            "title": "Widget"
+        }, 
+        {
+            "location": "/useage/#php-function", 
+            "text": "More advanced users that are familiar with PHP   their theme can use the PHP function provided to have the tweets output anywhere you wish, not just in a widgetized area.  To use the function just use  aoiToriOutput($args, $echo)  somewhere in your theme. I advise creating a child theme if you are using a purchased or WordPress theme directory theme as any updates will wipe edits such as this. More on creating a child theme can be found in the  WordPress Codex .  More information on the parameters that can be passed to the function can be found below.  Note:  Currently the widget   PHP function use the options you have set via the options page, other than changing the options passed to Twitter it is currently not possible to override the options page settings such as colors and template used.", 
+            "title": "PHP Function"
+        }, 
+        {
+            "location": "/useage/#php-function-usage", 
+            "text": "If you wish to use the PHP function there are a few things to know. The basic usage is as follows:  aoiToriOutput( $args = array(), $echo = true );  The first parameter is an Array. The options available on that Array will be covered below. The second parameter is a Boolean and tells the plugin if the data should be echoed or returned to a variable.  Note:  When using the return option, please be aware that it will return the raw data from Twitter. That is data that has not been passed through Aoi Tori's templating system.  Here are the options available to be set in the  $args  Array. There are no required items, however not setting them will result in the plugin using its defaults.", 
+            "title": "PHP Function Usage"
+        }, 
+        {
+            "location": "/useage/#screen_name", 
+            "text": "This is the Twitter Screen Name used to determine whose Tweets to show. You can use any username however the tweets will only be shown if the user's timeline is public. If you wish to show a private timeline the user that the authorized the plugin has permission to see that users tweets.  Default:   Empty", 
+            "title": "screen_name"
+        }, 
+        {
+            "location": "/useage/#count", 
+            "text": "Determines how many Tweets are returned by Twitter. This can be anything up to 3200.  Default:   10", 
+            "title": "count"
+        }, 
+        {
+            "location": "/useage/#exclude_replies", 
+            "text": "If set to true this will exclude any tweet that starts with a reply to another Twitter screen name. A Tweet that contains a mention elsewhere in the Tweet will not be excluded. Please note that Twitter removes these Tweets after retrieving them, this can result in Twitter returning less than the amount requested using the  count  option.  Default:   false", 
+            "title": "exclude_replies"
+        }, 
+        {
+            "location": "/useage/#include_rts", 
+            "text": "If set to false this will exclude ReTweets. Again Twitter removes these after returning the Tweets and therefore it may result in Twitter returning less than the amount requested using the  count  options.  Default:   false", 
+            "title": "include_rts"
+        }, 
+        {
+            "location": "/useage/#cache_time", 
+            "text": "Determines how long the data returned from Twitter is cached for. Data is cached using a WordPress Transient. The cache time specified is passed to the expiration parameter or  set_transient() . Since this option should be provided in minutes the value set is converted to seconds using the  MINUTES_IN_SECONDS  constant.  Default:   30", 
+            "title": "cache_time"
+        }, 
+        {
+            "location": "/options/intro/", 
+            "text": "Aoi Tori Options Tabs\n\n\nThese pages cover the options available on the options tabs of Aoi Tori. While I have tried to keep them as self-explanatory as possible you can never have too much information. As such please peruse these pages to find out more about each option.\n\n\nThe pages have been split to cover each tab separately. Instructions and FAQ have been excluded as they are there only for information and do not provide any extra functionality.", 
+            "title": "Info"
+        }, 
+        {
+            "location": "/options/intro/#aoi-tori-options-tabs", 
+            "text": "These pages cover the options available on the options tabs of Aoi Tori. While I have tried to keep them as self-explanatory as possible you can never have too much information. As such please peruse these pages to find out more about each option.  The pages have been split to cover each tab separately. Instructions and FAQ have been excluded as they are there only for information and do not provide any extra functionality.", 
+            "title": "Aoi Tori Options Tabs"
+        }, 
+        {
+            "location": "/options/api-keys/", 
+            "text": "API Keys\n\n\nThese options are related to the oAuth system used by Twitter. They are the first options that should be filled in as they allow the plugin to access your Tweets.\n\n\nConsumer Key\n\n\nThis holds the Consumer Key generated by Twitter's Application Management system. It is used (along with the 3 other keys) to authorize you with Twitter to retrieve data from their API.\n\n\nConsumer Secret\n\n\nThis holds the Consumer Secret generated by Twitter's Application Management system. It is used (along with the 3 other keys) to authorize you with Twitter to retrieve data from their API.\n\n\noAuth Access Token\n\n\nThis holds the oAuth Access Token generated by Twitter's Application Management system. It is used (along with the 3 other keys) to authorize you with Twitter to retrieve data from their API.\n\n\noAuth Access Token Secret\n\n\nThis holds the oAuth Access Token Secret generated by Twitter's Application Management system. It is used (along with the 3 other keys) to authorize you with Twitter to retrieve data from their API.\n\n\nToken Validity Check\n\n\nThis checks your keys by making a simple request to Twitter's verify credentials endpoint. If Twitter returns user information and a HTTP 200 then all is okay and the message turns green. If not it will go red.", 
+            "title": "API Keys"
+        }, 
+        {
+            "location": "/options/api-keys/#api-keys", 
+            "text": "These options are related to the oAuth system used by Twitter. They are the first options that should be filled in as they allow the plugin to access your Tweets.", 
+            "title": "API Keys"
+        }, 
+        {
+            "location": "/options/api-keys/#consumer-key", 
+            "text": "This holds the Consumer Key generated by Twitter's Application Management system. It is used (along with the 3 other keys) to authorize you with Twitter to retrieve data from their API.", 
+            "title": "Consumer Key"
+        }, 
+        {
+            "location": "/options/api-keys/#consumer-secret", 
+            "text": "This holds the Consumer Secret generated by Twitter's Application Management system. It is used (along with the 3 other keys) to authorize you with Twitter to retrieve data from their API.", 
+            "title": "Consumer Secret"
+        }, 
+        {
+            "location": "/options/api-keys/#oauth-access-token", 
+            "text": "This holds the oAuth Access Token generated by Twitter's Application Management system. It is used (along with the 3 other keys) to authorize you with Twitter to retrieve data from their API.", 
+            "title": "oAuth Access Token"
+        }, 
+        {
+            "location": "/options/api-keys/#oauth-access-token-secret", 
+            "text": "This holds the oAuth Access Token Secret generated by Twitter's Application Management system. It is used (along with the 3 other keys) to authorize you with Twitter to retrieve data from their API.", 
+            "title": "oAuth Access Token Secret"
+        }, 
+        {
+            "location": "/options/api-keys/#token-validity-check", 
+            "text": "This checks your keys by making a simple request to Twitter's verify credentials endpoint. If Twitter returns user information and a HTTP 200 then all is okay and the message turns green. If not it will go red.", 
+            "title": "Token Validity Check"
+        }, 
+        {
+            "location": "/options/template/", 
+            "text": "Template\n\n\nThese options are all related to the template used when displaying your Tweets. This effects both the widget and PHP Function output unless you choose to return data via the PHP function. Returned data is not passed through the template system and will return the raw data from Twitter instead.\n\n\nTweet Template\n\n\nUse this to select the template used when displaying tweets. There are currently 3 built-in templates to choose from.\n\n\n\n\nList Style:\n Uses a standard unordered list styled to have no bullet points. Your theme's default styling should take over and provide the majority of the styling needed. Some themes do not have different styling for lists in widgetized areas, if this happens please use the margin/padding options to adjust the spacing as needed.\n\n\nParagraph Style:\n Uses paragraph tags for each tweet. Good for footer widgets or areas where paragraphs would be more suitable.\n\n\nMedia Object Style:\n Uses a media object layout as made popular by the Bootstrap framework. The styling built into the plugin will create the Media Object layout, but your theme styling will do the rest.\n\n\n\n\nEnable Custom Template\n\n\nUse this option to enable the custom template. This will override whichever built-in template has been selected with the code shown in the Template Code option.\n\n\nTemplate Code\n\n\nThis box, when the option above is enabled, runs the code typed into the box through the Twig template renderer instead of the built-in template selected. There is only 1 variable available to the template, that is the \ntweets\n object returned by Twitter. You can see the data returned by twitter on their \nDevelopers website\n.", 
+            "title": "Template"
+        }, 
+        {
+            "location": "/options/template/#template", 
+            "text": "These options are all related to the template used when displaying your Tweets. This effects both the widget and PHP Function output unless you choose to return data via the PHP function. Returned data is not passed through the template system and will return the raw data from Twitter instead.", 
+            "title": "Template"
+        }, 
+        {
+            "location": "/options/template/#tweet-template", 
+            "text": "Use this to select the template used when displaying tweets. There are currently 3 built-in templates to choose from.   List Style:  Uses a standard unordered list styled to have no bullet points. Your theme's default styling should take over and provide the majority of the styling needed. Some themes do not have different styling for lists in widgetized areas, if this happens please use the margin/padding options to adjust the spacing as needed.  Paragraph Style:  Uses paragraph tags for each tweet. Good for footer widgets or areas where paragraphs would be more suitable.  Media Object Style:  Uses a media object layout as made popular by the Bootstrap framework. The styling built into the plugin will create the Media Object layout, but your theme styling will do the rest.", 
+            "title": "Tweet Template"
+        }, 
+        {
+            "location": "/options/template/#enable-custom-template", 
+            "text": "Use this option to enable the custom template. This will override whichever built-in template has been selected with the code shown in the Template Code option.", 
+            "title": "Enable Custom Template"
+        }, 
+        {
+            "location": "/options/template/#template-code", 
+            "text": "This box, when the option above is enabled, runs the code typed into the box through the Twig template renderer instead of the built-in template selected. There is only 1 variable available to the template, that is the  tweets  object returned by Twitter. You can see the data returned by twitter on their  Developers website .", 
+            "title": "Template Code"
+        }, 
+        {
+            "location": "/options/styles/", 
+            "text": "Styles\n\n\nThese basic styles give you a little bit of control over the various colors for links. Please remember to set these as they override your theme's default styling (in most cases).\n\n\nHashtag Color\n\n\nChanges the link color of hashtags displayed in a tweet.\n\n\nHashtag Hover Color\n\n\nChanges the hover link color of hashtags displayed in a tweet.\n\n\n@reply Color\n\n\nChanges the link color of @replys displayed in a tweet.\n\n\n@reply Hover Color\n\n\nChanges the hover link color of @replys displayed in a tweet.\n\n\nHyperlink Color\n\n\nChanges the link color of Hyperlinks displayed in a tweet.\n\n\nHyperlink Hover Color\n\n\nChanges the hover link color of Hyperlinks displayed in a tweet.", 
+            "title": "Basic Styles"
+        }, 
+        {
+            "location": "/options/styles/#styles", 
+            "text": "These basic styles give you a little bit of control over the various colors for links. Please remember to set these as they override your theme's default styling (in most cases).", 
+            "title": "Styles"
+        }, 
+        {
+            "location": "/options/styles/#hashtag-color", 
+            "text": "Changes the link color of hashtags displayed in a tweet.", 
+            "title": "Hashtag Color"
+        }, 
+        {
+            "location": "/options/styles/#hashtag-hover-color", 
+            "text": "Changes the hover link color of hashtags displayed in a tweet.", 
+            "title": "Hashtag Hover Color"
+        }, 
+        {
+            "location": "/options/styles/#reply-color", 
+            "text": "Changes the link color of @replys displayed in a tweet.", 
+            "title": "@reply Color"
+        }, 
+        {
+            "location": "/options/styles/#reply-hover-color", 
+            "text": "Changes the hover link color of @replys displayed in a tweet.", 
+            "title": "@reply Hover Color"
+        }, 
+        {
+            "location": "/options/styles/#hyperlink-color", 
+            "text": "Changes the link color of Hyperlinks displayed in a tweet.", 
+            "title": "Hyperlink Color"
+        }, 
+        {
+            "location": "/options/styles/#hyperlink-hover-color", 
+            "text": "Changes the hover link color of Hyperlinks displayed in a tweet.", 
+            "title": "Hyperlink Hover Color"
+        }, 
+        {
+            "location": "/options/advanced-styles/", 
+            "text": "Advanced CSS\n\n\nThese options are for those who would like to get a\n\n\nNotice: Margins/Paddings\n\n\nPlease note that the margin/padding options available rely on the classes assigned by the built-in templates. If you wish these settings to persist when using a custom template you will need to assign the default classes to elements in your custom template.\n\n\nFor more information please check the section dedicated to creating custom templates.\n\n\nTweets Container\n\n\nMargin\n\n\nThe margin applied to the container that contains all tweets. Margin is applied to the outside of the element. Must be in a valid CSS format. For example: 5px 3px 5px 3px\n\n\nPadding\n\n\nThe padding applied to the container that contains all tweets. Padding is applied to the inside of the element. Must be in a valid CSS format. For example: 5px 3px 5px 3px\n\n\nTweet Container\n\n\nMargin\n\n\nThe margin applied to the container that contains a single tweet. This element is inside the Tweets container mentioned above and is repeated for each tweet found. Margin is applied to the outside of the element. Must be in a valid CSS format. For example: 5px 3px 5px 3px\n\n\nPadding\n\n\nThe padding applied to the container that contains a single tweet. This element is inside the Tweets container mentioned above and is repeated for each tweet found. Padding is applied to the inside of the element. Must be in a valid CSS format. For example: 5px 3px 5px 3px\n\n\nCustom CSS\n\n\nYou can use this box to add any custom CSS you like. This is a great place to put custom CSS should you wish to apply extra styling to your tweets, to customize the built-in templates, or to apply CSS to a custom template you have created. CSS entered in this box will be maintained over plugin updates.\n\n\nTip:\n The custom CSS box also supports the SCSS syntax so you can use features such as selector nesting.", 
+            "title": "Advanced Styles"
+        }, 
+        {
+            "location": "/options/advanced-styles/#advanced-css", 
+            "text": "These options are for those who would like to get a", 
+            "title": "Advanced CSS"
+        }, 
+        {
+            "location": "/options/advanced-styles/#notice-marginspaddings", 
+            "text": "Please note that the margin/padding options available rely on the classes assigned by the built-in templates. If you wish these settings to persist when using a custom template you will need to assign the default classes to elements in your custom template.  For more information please check the section dedicated to creating custom templates.", 
+            "title": "Notice: Margins/Paddings"
+        }, 
+        {
+            "location": "/options/advanced-styles/#tweets-container", 
+            "text": "", 
+            "title": "Tweets Container"
+        }, 
+        {
+            "location": "/options/advanced-styles/#margin", 
+            "text": "The margin applied to the container that contains all tweets. Margin is applied to the outside of the element. Must be in a valid CSS format. For example: 5px 3px 5px 3px", 
+            "title": "Margin"
+        }, 
+        {
+            "location": "/options/advanced-styles/#padding", 
+            "text": "The padding applied to the container that contains all tweets. Padding is applied to the inside of the element. Must be in a valid CSS format. For example: 5px 3px 5px 3px", 
+            "title": "Padding"
+        }, 
+        {
+            "location": "/options/advanced-styles/#tweet-container", 
+            "text": "", 
+            "title": "Tweet Container"
+        }, 
+        {
+            "location": "/options/advanced-styles/#margin_1", 
+            "text": "The margin applied to the container that contains a single tweet. This element is inside the Tweets container mentioned above and is repeated for each tweet found. Margin is applied to the outside of the element. Must be in a valid CSS format. For example: 5px 3px 5px 3px", 
+            "title": "Margin"
+        }, 
+        {
+            "location": "/options/advanced-styles/#padding_1", 
+            "text": "The padding applied to the container that contains a single tweet. This element is inside the Tweets container mentioned above and is repeated for each tweet found. Padding is applied to the inside of the element. Must be in a valid CSS format. For example: 5px 3px 5px 3px", 
+            "title": "Padding"
+        }, 
+        {
+            "location": "/options/advanced-styles/#custom-css", 
+            "text": "You can use this box to add any custom CSS you like. This is a great place to put custom CSS should you wish to apply extra styling to your tweets, to customize the built-in templates, or to apply CSS to a custom template you have created. CSS entered in this box will be maintained over plugin updates.  Tip:  The custom CSS box also supports the SCSS syntax so you can use features such as selector nesting.", 
+            "title": "Custom CSS"
+        }, 
+        {
+            "location": "/templates/", 
+            "text": "Template Customization\n\n\nIf you need a layout for your tweets not covered by the built in layouts then this is the section for you. Please be aware that you will need basic knowledge of HTML and CSS to create a custom template. Knowledge of a template language such as Handlebars or Twig (The template engine used) is also helpful, but it should be simple enough to learn.\n\n\nIf you would like to read up on Twig before continuing please check out \nTwig's documentation\n.\n\n\nTwig Templates\n\n\nAoi Tori uses Twig as its template language. This helps keeps things simple and removes the need for lengthy PHP logic in the template files. For example a PHP can be a little too verbose:\n\n\n?php\nif(!empty($this)) {\n  echo $this;\n} else {\n  echo 'It is empty';\n}\n?\n\n\n\n\n\nWith Twig it is a lot shorter:\n\n\n{{ $this|default('It is empty') }}\n\n\n\n\nThe PHP version could be made shorter with a ternary, but that makes things harder to read, not easier like in the Twig example.\n\n\nAoi Tori Template\n\n\nThe template is Aoi Tori is fairly simple. The template is passed 1 variable that is available at any time throughout the template. That is the variable \ntweets\n. \ntweets\n contains the raw data returned from Twitter. This means you have access to any of the data that was returned and can output whatever you wish from the object. Please check out the \nTwitter Development\n website for more details of what is available in the object.\n\n\nThere is an example already written in the custom template box for you to use as an example. Notice the use of the extra filter \nprocess()\n this filter allows you to pass through the tweet to be processed and choose if Hashtags, AtReplys, and URLs should be processed or not. It looks a little like this:\n\n\nprocess(object tweet, bool hashtag, bool atreply, bool url)\n\n\n\n\nThe last three parameters are true by default. If set to false each item will just return the default textual representation instead of the processed hyperlink.\n\n\nNote:\n The \nprocess()\n filter will only work when handed a single tweet object and not the whole tweets object returned by Twitter. To this end it is advised only to use it while inside a loop.\n\n\nA more detailed template example is available below for your reference. Please use it as an example.\n\n\n{% if tweets|length \n 0 %}\n    \nul class=\naoitori_tweets\n\n        {% for tweet in tweets %}\n            \nli class=\naoitori_tweet\n{{ tweet.text|process(tweet) }}\n/li\n\n        {% endfor %}\n    \n/ul\n\n{% endif %}", 
+            "title": "Template Customization"
+        }, 
+        {
+            "location": "/templates/#template-customization", 
+            "text": "If you need a layout for your tweets not covered by the built in layouts then this is the section for you. Please be aware that you will need basic knowledge of HTML and CSS to create a custom template. Knowledge of a template language such as Handlebars or Twig (The template engine used) is also helpful, but it should be simple enough to learn.  If you would like to read up on Twig before continuing please check out  Twig's documentation .", 
+            "title": "Template Customization"
+        }, 
+        {
+            "location": "/templates/#twig-templates", 
+            "text": "Aoi Tori uses Twig as its template language. This helps keeps things simple and removes the need for lengthy PHP logic in the template files. For example a PHP can be a little too verbose:  ?php\nif(!empty($this)) {\n  echo $this;\n} else {\n  echo 'It is empty';\n}\n?   With Twig it is a lot shorter:  {{ $this|default('It is empty') }}  The PHP version could be made shorter with a ternary, but that makes things harder to read, not easier like in the Twig example.", 
+            "title": "Twig Templates"
+        }, 
+        {
+            "location": "/templates/#aoi-tori-template", 
+            "text": "The template is Aoi Tori is fairly simple. The template is passed 1 variable that is available at any time throughout the template. That is the variable  tweets .  tweets  contains the raw data returned from Twitter. This means you have access to any of the data that was returned and can output whatever you wish from the object. Please check out the  Twitter Development  website for more details of what is available in the object.  There is an example already written in the custom template box for you to use as an example. Notice the use of the extra filter  process()  this filter allows you to pass through the tweet to be processed and choose if Hashtags, AtReplys, and URLs should be processed or not. It looks a little like this:  process(object tweet, bool hashtag, bool atreply, bool url)  The last three parameters are true by default. If set to false each item will just return the default textual representation instead of the processed hyperlink.  Note:  The  process()  filter will only work when handed a single tweet object and not the whole tweets object returned by Twitter. To this end it is advised only to use it while inside a loop.  A more detailed template example is available below for your reference. Please use it as an example.  {% if tweets|length   0 %}\n     ul class= aoitori_tweets \n        {% for tweet in tweets %}\n             li class= aoitori_tweet {{ tweet.text|process(tweet) }} /li \n        {% endfor %}\n     /ul \n{% endif %}", 
+            "title": "Aoi Tori Template"
+        }, 
+        {
+            "location": "/developer-notes/", 
+            "text": "Developer Notes\n\n\nThis plugin makes use of Composer to autoload classes. Because this is a WordPress plugin and it would be awkward for users to have to run Composer, especially on shared servers, this plugin has all of the dependencies included with it. This prevents end-users from having to run \ncomposer install\n or \ncomposer update\n to get them.\n\n\nSome extra classes are autoloaded using the classmap autoloader. Please check in the \ncomposer.json\n file to see while classes are loaded in that way.", 
+            "title": "Developer Notes"
+        }, 
+        {
+            "location": "/developer-notes/#developer-notes", 
+            "text": "This plugin makes use of Composer to autoload classes. Because this is a WordPress plugin and it would be awkward for users to have to run Composer, especially on shared servers, this plugin has all of the dependencies included with it. This prevents end-users from having to run  composer install  or  composer update  to get them.  Some extra classes are autoloaded using the classmap autoloader. Please check in the  composer.json  file to see while classes are loaded in that way.", 
+            "title": "Developer Notes"
+        }, 
+        {
+            "location": "/todo/", 
+            "text": "ToDo\n\n\nThis is a list of planned features or items that have yet to be implemented. There is no particular order, but in general I work on simpler ones first to get that out of the way, unless another feature is urgently required.\n\n\n\n\nAdd the ability to load a custom template from the currently active theme directory as a third alternative to the built-in templates and custom template box.", 
+            "title": "ToDo"
+        }, 
+        {
+            "location": "/todo/#todo", 
+            "text": "This is a list of planned features or items that have yet to be implemented. There is no particular order, but in general I work on simpler ones first to get that out of the way, unless another feature is urgently required.   Add the ability to load a custom template from the currently active theme directory as a third alternative to the built-in templates and custom template box.", 
+            "title": "ToDo"
+        }, 
+        {
+            "location": "/bugs/", 
+            "text": "Bugs\n\n\nThis is a list of known bugs/issues in the plugin. They will always be minor but will always be fixed in order of seriousness. The plugin will never be released/updated with a known blocking (breaking) bug. If you find a bug please use the email address shown in the support section below to email me as soon as possible.\n\n\n\n\nPartially visible URLs, generally only seen in Retweets, are hyperlinked. There may however be edge cases where they do not work correctly due to how hyperlinking is implemented. Keep an eye on this one.", 
+            "title": "Bugs"
+        }, 
+        {
+            "location": "/bugs/#bugs", 
+            "text": "This is a list of known bugs/issues in the plugin. They will always be minor but will always be fixed in order of seriousness. The plugin will never be released/updated with a known blocking (breaking) bug. If you find a bug please use the email address shown in the support section below to email me as soon as possible.   Partially visible URLs, generally only seen in Retweets, are hyperlinked. There may however be edge cases where they do not work correctly due to how hyperlinking is implemented. Keep an eye on this one.", 
+            "title": "Bugs"
+        }, 
+        {
+            "location": "/support/", 
+            "text": "Support\n\n\nIf you have any issues, problems or questions I will try my best to help you out as quickly as possible. Here are the best ways to get in touch. Please do not use the WordPress support forum as I do not check it very often and it may go unanswered. The fastest way to get in touch is to email me.\n\n\n\n\nEmail:\n \nsupport@return-true.com", 
+            "title": "Support"
+        }, 
+        {
+            "location": "/support/#support", 
+            "text": "If you have any issues, problems or questions I will try my best to help you out as quickly as possible. Here are the best ways to get in touch. Please do not use the WordPress support forum as I do not check it very often and it may go unanswered. The fastest way to get in touch is to email me.   Email:   support@return-true.com", 
+            "title": "Support"
+        }, 
+        {
+            "location": "/misc/", 
+            "text": "Miscellaneous\n\n\nThe Name?\n\n\nYou may have noticed that this plugin has an odd name. It was originally going to continue to call it Twitter Stream. However the plugin is now so far from the original version in features, and I was worried about continuing to use Twitter in its name. So I decided to rename it.\n\n\nAoi Tori (Kanji: \u9752\u3044\u9ce5 / Katakana: \u3042\u304a\u3044\u3068\u308a) is Japanese for Blue Bird. I am currently learning Japanese and thought it was an interesting name for the plugin. Plus it is still related to Twitter since we all recognise the famous blue bird that Twitter use for their branding.", 
+            "title": "Miscellaneous"
+        }, 
+        {
+            "location": "/misc/#miscellaneous", 
+            "text": "", 
+            "title": "Miscellaneous"
+        }, 
+        {
+            "location": "/misc/#the-name", 
+            "text": "You may have noticed that this plugin has an odd name. It was originally going to continue to call it Twitter Stream. However the plugin is now so far from the original version in features, and I was worried about continuing to use Twitter in its name. So I decided to rename it.  Aoi Tori (Kanji: \u9752\u3044\u9ce5 / Katakana: \u3042\u304a\u3044\u3068\u308a) is Japanese for Blue Bird. I am currently learning Japanese and thought it was an interesting name for the plugin. Plus it is still related to Twitter since we all recognise the famous blue bird that Twitter use for their branding.", 
+            "title": "The Name?"
+        }
+    ]
+}
