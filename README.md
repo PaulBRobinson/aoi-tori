@@ -1,5 +1,7 @@
 # Aoi Tori - A Twitter Plugin for WordPress
 
+## THIS PLUGIN IS NOT LIVE ON THE WORDPRESS DIRECTORY YET!
+
 Aoi Tori is a Twitter Plugin for WordPress. You can install it directly via your WordPress dashboard by going to your plugins area and searching for Aoi Tori. It is hosted here for proper version control and pushed to SVN so it can appear on the WordPress plugin directory.
 
 For more information on please check out [Aoi Tori's documentation](https://nabesaka.github.io/aoi-tori).
