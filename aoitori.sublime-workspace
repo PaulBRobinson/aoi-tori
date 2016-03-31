@@ -1,0 +1,1870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"delete_site",
+				"delete_site_transient"
+			],
+			[
+				"is_ob",
+				"is_object"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_scripts"
+			],
+			[
+				"get_template_",
+				"get_template_directory_uri"
+			],
+			[
+				"get_plugin",
+				"get_plugin_data"
+			],
+			[
+				"valid_",
+				"valid_unlimited"
+			],
+			[
+				"li",
+				"licenseDomain"
+			],
+			[
+				"lic",
+				"licenseDomain"
+			],
+			[
+				"lice",
+				"license_data"
+			],
+			[
+				"san",
+				"sanitize_key"
+			],
+			[
+				"lices",
+				"license_data"
+			],
+			[
+				"license",
+				"license_data"
+			],
+			[
+				"licen",
+				"license_data"
+			],
+			[
+				"n",
+				"nStrLen"
+			],
+			[
+				"indi",
+				"indicesMove"
+			],
+			[
+				"st",
+				"strLen"
+			],
+			[
+				"ind",
+				"indicesMove"
+			],
+			[
+				"plugin_dir_",
+				"plugin_dir_url"
+			],
+			[
+				"plugin",
+				"plugin_basename"
+			],
+			[
+				"wp_remote_re",
+				"wp_remote_retrieve_body"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"ce",
+				"celebrities"
+			],
+			[
+				"auto",
+				"autoCloseTime"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"red",
+				"red-muted"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"cl",
+				"class	PHP Class"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"bs3-b",
+				"bs3-breadcrumbs	bs3-breadcrumbs"
+			],
+			[
+				"Mustache",
+				"Mustache_Loader_FilesystemLoader"
+			],
+			[
+				"new",
+				"newTemplate"
+			],
+			[
+				"get_query_",
+				"get_query_var"
+			],
+			[
+				"is_object_in",
+				"is_object_in_term"
+			],
+			[
+				"add_rew",
+				"add_rewrite_tag"
+			],
+			[
+				"getToken",
+				"getTokenHeader"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"add_re",
+				"add_rewrite_rule"
+			],
+			[
+				"set_post_thum",
+				"set_post_thumbnail_size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"comment_form_after",
+				"comment_form_after_fields"
+			],
+			[
+				"comment_form_lod",
+				"comment_form_logged_in_after"
+			],
+			[
+				"comment_form_de",
+				"comment_form_default_fields"
+			],
+			[
+				"comment",
+				"comment_form"
+			],
+			[
+				"font",
+				"font-family-serif"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"left",
+				"left-nav"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"get_styl",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"get_user",
+				"get_user_meta"
+			],
+			[
+				"mason",
+				"masonryInstalled"
+			],
+			[
+				"get_st",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"in",
+				"InstagramData"
+			],
+			[
+				"insta",
+				"InstagramData"
+			],
+			[
+				"instagra",
+				"instagramData"
+			],
+			[
+				"twitter",
+				"twitterData"
+			],
+			[
+				"shortcode",
+				"shortcode_atts"
+			],
+			[
+				"inst",
+				"instagramKey"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"admin",
+				"admin_url"
+			],
+			[
+				"CsiInsta",
+				"CsiInstagramSecret"
+			],
+			[
+				"CsiTwitter",
+				"CsiTwitterKey"
+			],
+			[
+				"creamsocial",
+				"cream-social-integration"
+			],
+			[
+				"game",
+				"gamepapers"
+			],
+			[
+				"Permission",
+				"PermissionTableSeeder"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"thro",
+				"throttle"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"text-co",
+				"text-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"text-color",
+				"text-color-inverse"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"wp_get_attach",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"cha",
+				"chapters-grades"
+			],
+			[
+				"vehi",
+				"vehicles-chaptersuk"
+			],
+			[
+				"get_te",
+				"get_the_archive_title"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"chaptesr-",
+				"chaptersuk-grades"
+			],
+			[
+				"photo",
+				"photoGrid"
+			],
+			[
+				"Va",
+				"Validator"
+			],
+			[
+				"Re",
+				"Response"
+			],
+			[
+				"Faca",
+				"Facades"
+			],
+			[
+				"Albu",
+				"AlbumRequest"
+			],
+			[
+				"Al",
+				"AlbumRequest"
+			],
+			[
+				"night",
+				"nightshootOverRate"
+			],
+			[
+				"devel",
+				"development"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"lon",
+				"longitude"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"bh_",
+				"bh_loc"
+			],
+			[
+				"sa",
+				"salaryUnit"
+			],
+			[
+				"bh",
+				"bhurl"
+			],
+			[
+				"cie",
+				"cieBull"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"http",
+				"http_status"
+			],
+			[
+				"build",
+				"http_build_query"
+			],
+			[
+				"login",
+				"loginbase"
+			],
+			[
+				"http_",
+				"http_status"
+			],
+			[
+				"ref",
+				"refresh_token"
+			],
+			[
+				"refres",
+				"refresh_token"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"the",
+				"the_field"
+			],
+			[
+				"unfol",
+				"unfold_scripts"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"log",
+				"longitude"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"impr",
+				"@import	@import url(${0});"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"brand-",
+				"brand-secondary"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "aoitori.php",
+			"settings":
+			{
+				"buffer_size": 27042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/titan-custom-types/class-option-twitter-how-to.php",
+			"settings":
+			{
+				"buffer_size": 8421,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "docs-aoi-tori.html",
+			"settings":
+			{
+				"buffer_size": 27999,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "		<div class=\"clear\"></div> <!--clear any float present at this point -->\n            </div><!-- End of #content-wrapper -->\n\n	</div><!--End of #main-wrapper -->\n        \n        \n            <div id=\"footer-wrapper\">\n                \n                <div id=\"footer\">\n                    <div class=\"footer-logo alignleft\">\n                        <img src=\"<?php echo RT_BASE_IMG_FOLDER_URL; ?>/footer-logo.png\" title=\"Footer Logo\" alt=\"Footer Logo\" />\n                    </div>\n                    \n                    <div class=\"footer-menu alignleft\">\n                        <?php\n                            /* Wordpress Menu of Top Header */\n                            if( function_exists('wp_nav_menu') && has_nav_menu('footer_menu_one') ) {\n                                wp_nav_menu(array('container' => '', 'menu_id' => 'rt-footer-menu-one', 'theme_location' => 'footer_menu_one', 'depth' => '1'));\n                            }\n                        ?>\n                    </div>\n                    \n                    <div class=\"footer-menu alignleft\">\n                        <?php\n                            /* Wordpress Menu of Top Header */\n                        add_filter('wp_nav_menu_items', 'add_login_logout_link', 10, 2);\n                            if( function_exists('wp_nav_menu') && has_nav_menu('footer_menu_two') ) {\n                                wp_nav_menu(array('container' => '', 'menu_id' => 'rt-footer-menu-two', 'theme_location' => 'footer_menu_two', 'depth' => '1'));\n                            }\n                            remove_filter('wp_nav_menu_items', 'add_login_logout_link');\n                        ?>\n                    </div>\n                    \n                    <div class=\"rt-social-share\">\n                    	<h4>Follow us</h4>					\n						<a href=\"https://www.facebook.com/clandongolf1/\" target=\"_blank\"><img src=\"<?php echo get_template_directory_uri(); ?>/img/FB-icon.png\"></a>\n						<a href=\"http://www.twitter.com/clandongolf1\" target=\"_blank\"><img src=\"<?php echo get_template_directory_uri(); ?>/img/twitter-icon.png\"></a>\n                    </div>\n                    \n                </div><!--end of #footer -->\n                <div class=\"copyright\">All content <small> &copy; </small> Clandon Golf <?php echo date( 'Y' ); ?> &nbsp;|&nbsp; Website by <b><a href=\"http://seven21.co.uk/\" title=\"Go to Seven21 website.\" target=\"_blank\">seven21.co.uk</a></b></div>\n                \n            </div><!--End of #footer-wrapper-->\n            \n        <!--\n            Moved all the scripts in the \"php/rt-init.php\" for wordpress standards\n            Look for rt_footer_scripts() function to add your custom scripts.\n        -->\n        <?php wp_footer(); ?>\n    </body>\n</html>",
+			"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/footer.php",
+			"file_size": 2812,
+			"file_write_time": 130943172075677708,
+			"settings":
+			{
+				"buffer_size": 2762,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/*\n\nTheme Name: Clandon Golf\n\nTheme URI: http://seven21.co.uk\n\nDescription: Clandon Golf theme by seven21\n\nVersion: 0.1\n\nAuthor: seven21\n\nAuthor URI: http://seven21.co.uk\n\n*/\n\n/**\n\n * Color Palette:\n\n * ==============\n\n * Black: #333\n\n * gray-shade-light: #EAEAEA;\n\n * gray-medium-dark: #666666;\n\n *\n\n * Link colors: #607890;\n\n * Link hover color: #003366;\n\n */\n\n/* always force a scrollbar in non-IE  */\n\nhtml { overflow-y: scroll }\n\nul, ol { margin-left: 25px }\n\n    ul li { list-style-type: square }\n\n    ol li { list-style-type: decimal }\n\nth { }\n\ntd,\n\ntd img { vertical-align: top }\n\nsub { vertical-align: sub }\n\nsup { vertical-align: super }\n\n\n\n/* DL, DT, DD Tags Style\n\n   ================================================== */\n\ndl { }\n\n    dl dt { background: none repeat scroll 0 0 #F1F1F1; color: #333333; padding: 5px; }\n\n    dl dd { margin: 2px 0; padding: 5px 0; }\n\npre {\n\n	white-space: pre;           /* CSS 2.0 */\n\n	white-space: pre-wrap;      /* CSS 2.1 */\n\n	white-space: pre-line;      /* CSS 3.0 */\n\n	white-space: -pre-wrap;     /* Opera 4-6 */\n\n	white-space: -o-pre-wrap;   /* Opera 7 */\n\n	white-space: -moz-pre-wrap; /* Mozilla */\n\n	white-space: -hp-pre-wrap;  /* HP Printers */\n\n	word-wrap: break-word;      /* IE 5+ */\n\n        padding: 15px;\n\n}\n\ntextarea { overflow: auto } /* thnx ivannikolic! www.sitepoint.com/blogs/2010/08/20/ie-remove-textarea-scrollbars/  */\n\n/* align checkboxes, radios, text inputs with their label\n\n   by: Thierry Koblentz tjkdesign.com/ez-css/css/base.css   */\n\ninput[type=\"radio\"] { vertical-align: text-bottom }\n\ninput[type=\"checkbox\"] { vertical-align: bottom }\n\n\n\n/* hand cursor on clickable input elements  */\n\nlabel, input[type=button], input[type=submit], button { cursor: pointer }\n\n\n\n/* webkit browsers add a 2px margin outside the chrome of form elements  */\n\nbutton, input, select, textarea { margin: 0 0 4px }\n\n\n\n/* make buttons play nice in IE:\n\n   www.viget.com/inspire/styling-the-button-element-in-internet-explorer/  */\n\nbutton { width: auto; overflow: visible; }\n\n\n\n/* disable outline and decoration for input  */\n\ninput { text-decoration: none; outline: none; }\n\n\n\n/* ===[ Non-semantic helper classes ]=== */\n\n/* for image replacement  */\n\n.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }\n\n\n\n/** Hide for both screenreaders and browsers\n\n *    css-discuss.incutio.com/wiki/Screenreader_Visibility\n\n */\n\n.hidden { display: none; visibility: hidden; }\n\n\n\n/* ===[ Hide visually and from screenreaders, but maintain layout ]=== */\n\n.invisible { visibility: hidden }\n\n\n\n/* >> The Magnificent clear << j.mp/phayesclear\n\n   ================================================== */\n\n.clear { content: \"\\0020\"; display: block; height: 0; clear: both; visibility: hidden; }\n\n.clearfix:before,\n\n.clearfix:after { content: \".\"; display: block; height: 0; overflow: hidden; }\n\n.clearfix:after { clear: both }\n\n\n\n/* ===[ These rather presentational classes are generated by WordPress, so it's useful to have some styles for them. Edit as you see fit. More info: http://codex.wordpress.org/CSS ]=== */\n\n/* -----------------------------------------\n\n   ================================================== */\n\n.aligncenter { display:block; margin:0 auto; text-align: center}\n\n.alignleft { float:left }\n\n.alignright { float:right }\n\n.post-content .wp-caption { background: none repeat scroll 0 0 #CCCCCC;border: 1px solid #666666;padding: 10px;text-align: center; }\n\n.post-content div.alignnone,\n\n.post-content div.alignleft { margin: 10px 10px 10px 0; }\n\n.post-content div.alignright { margin: 10px 0 10px 10px; }\n\n.post-content div.aligncenter { margin: 10px auto; }\n\n#content .post-content .wp-caption img { margin: 0; }\n\n\n\n/* -----------------------------------------\n\n   ================================================== */\n\n/* ===[ Smiley Style ]=== */\n\n/* -----------------------------------------\n\n   ================================================== */\n\nimg.wp-smiley { margin: 0; padding: 0; float: none; }\n\n#content table { border: 1px solid #F1F1F1; margin-bottom: 20px; text-align: left; width: 100%; }\n\n#content tr th,\n\n#content th { border: 1px solid #F1F1F1; padding: 2px; }\n\n#content tr td { border: 1px solid #F1F1F1; padding: 2px; }\n\n\n\n/* ************************************************ */\n\n/* Layout Style                                     */\n\n/* ************************************************ */\n\n\n\n/*body span#body_loader { width: 32px; height: 32px; position: absolute; top: 50%;  left: 50%; text-indent: -9999px; background: url(img/ajax-loader.gif) no-repeat top left; display: block; z-index: 0;} */\n\n#bg img { height: auto; left: 0; min-height: 100%; min-width: 1024px; position: fixed; top: 0; width: 100%; }\n\nbody span#body_loader { width: 32px; height: 32px; position: absolute; top: 50%; left: 50%; text-indent: -9999px; background: url(img/ajax-loader.gif) no-repeat top left; display: block; z-index: 9999;} \n\n#main-wrapper, #header-wrapper, #footer-wrapper { position: relative; z-index: 100; }\n\n\n\nbody { background: #000; color: #FFF; width: 100%; }/*background: url(img/body-bg.jpg) no-repeat 50% 0;*/\n\n    #main-wrapper { width: 975px; margin: 0 auto; font-size: 140%; line-height: 23px; padding-top: 12px; }\n\n        #header-wrapper { min-width: 975px; z-index: 200; }\n\n        .home #content-wrapper { margin-bottom: 0; }\n\n        #content-wrapper { margin-bottom: 20px; padding-left: 7px; }\n\n            #content { float: left; width: 628px; }\n\n            .page-template-template-fullwidth-php #content, .page-template-template-course-php #content, .page-template-template-getting-here-php #content { float: left; width: 968px; }\n\n            #sidebar { float: right; width: 318px; }\n\n        #footer-wrapper { background: url(img/footer-wrapper-bg.jpg) repeat-x; height: 222px; overflow: hidden; min-width: 975px; }\n\n        p.wp_wunderground { display: none; }\n\n/* View specific CSS */\n\n#content-wrapper .single-post {  }\n\n#content-wrapper .multiple-post {  }\n\n#content-wrapper .blog-post {  }\n\n#content-wrapper .home-posts {  }\n\n\n\n/* ************************************************ */\n\n/* Default Color 				    */\n\n/* ************************************************ */\n\nselect, input, textarea { color: #444; }\n\n\n\n/* ************************************************ */\n\n/* Default Links 				    */\n\n/* ************************************************ */\n\na,a:link, a:hover, a:active, a:visited { outline: none }\n\na, a:active, a:visited { color: #ffcc33; text-decoration: none; }\n\na:hover { color: #CC9966; text-decoration: none; }\n\n\n\n*:link, *:visited, *:hover, *:active, *:focus {\n\n    -webkit-transition:\n\n        color .25s linear,\n\n        background-color .25s linear,\n\n        border-color .25s linear;\n\n    -moz-transition:\n\n        color .25s linear,\n\n        background-color .25s linear,\n\n        border-color .25s linear;\n\n    transition:\n\n        color .25s linear,\n\n        background-color .25s linear,\n\n        border-color .25s linear;\n\n}\n\n\n\n/* ************************************************ */\n\n/* Font Face 				    */\n\n/* ************************************************ */\n\n\n\n@font-face {\n\n    font-family: 'Museo300';\n\n    src: url('fonts/museo300-regular-webfont.eot');\n\n    src: url('fonts/museo300-regular-webfont.eot?#iefix') format('embedded-opentype'),\n\n         url('fonts/museo300-regular-webfont.woff') format('woff'),\n\n         url('fonts/museo300-regular-webfont.ttf') format('truetype'),\n\n         url('fonts/museo300-regular-webfont.svg#Museo300') format('svg');\n\n    font-weight: normal;\n\n    font-style: normal;\n\n\n\n}\n\n\n\n@font-face {\n\n    font-family: 'Museo500';\n\n    src: url('fonts/museo500-regular-webfont.eot');\n\n    src: url('fonts/museo500-regular-webfont.eot?#iefix') format('embedded-opentype'),\n\n         url('fonts/museo500-regular-webfont.woff') format('woff'),\n\n         url('fonts/museo500-regular-webfont.ttf') format('truetype'),\n\n         url('fonts/museo500-regular-webfont.svg#Museo500') format('svg');\n\n    font-weight: normal;\n\n    font-style: normal;\n\n\n\n}\n\n\n\n@font-face {\n\n    font-family: 'Museo700';\n\n    src: url('fonts/museo700-regular-webfont.eot');\n\n    src: url('fonts/museo700-regular-webfont.eot?#iefix') format('embedded-opentype'),\n\n         url('fonts/museo700-regular-webfont.woff') format('woff'),\n\n         url('fonts/museo700-regular-webfont.ttf') format('truetype'),\n\n         url('fonts/museo700-regular-webfont.svg#Museo700') format('svg');\n\n    font-weight: normal;\n\n    font-style: normal;\n\n\n\n}\n\n\n\n/* ************************************************ */\n\n/* Header Style					    */\n\n/* ************************************************ */\n\n#header { background: url(img/header-bg.png) no-repeat 50% 0 #111124; height: 147px; text-align: center; }\n\n    #header .site-logo { font-size: 200%; line-height: 140%; margin: 0 auto; padding: 10px 0 0; width: 176px; }\n\n        #header .site-logo a { background: url(img/logo.png) no-repeat; display: block; height: 126px; text-indent: -9999px; text-transform: uppercase; width: 176px; }\n\n        \n\n/* ************************************************ */\n\n/* Search form Style				    */\n\n/* ************************************************ */\n\n.searchform { font-size: 85%; }\n\n\n\n/* ************************************************ */\n\n/* Style				    */\n\n/* ************************************************ */\n\n#rt-primary-menu { background: url(\"img/nav-bg.png\") repeat-x 0 0 transparent; min-height: 64px; min-width: 960px; z-index: 200; }\n\n#rt-nav-menu { background: url(\"img/nav-separator.png\") no-repeat scroll 0 0 transparent; font-family: 'Museo300'; font-size: 18px; height: 55px; margin: 0 auto; padding-left: 7px; width: 1000px; }\n\n\n\n#rt-nav-menu ul { list-style:none outside none;margin:0; }\n\n    #rt-nav-menu li { background: url(\"img/nav-separator.png\") no-repeat scroll 100% 0 transparent; float:left; list-style: none outside none; position:relative; }\n\n\n\n    /* Navigation Link Color */\n\n        #rt-nav-menu a { display:block; color: #cc9966; line-height:55px; padding: 0 15px 0 10px;  margin-left: -2px; }\n\n        #rt-nav-menu a:hover { background: url(img/nav-hover-bg.png) repeat-x 0 0 transparent; text-decoration: none; }\n\n\n\n        /* Sub Menu Support */\n\n            #rt-nav-menu ul { display: none; position: absolute; top: 55px; left: 0; float: left; width: 210px; z-index: 999;}\n\n                #rt-nav-menu ul li { background: none; min-width: 180px;}\n\n                    #rt-nav-menu ul ul {left: 100%; top: 0;}\n\n\n\n                    /* Sub Navigation Link Color */\n\n                        #rt-nav-menu ul a { background: #272727; line-height: 28px; padding: 10px; width: 180px; height: auto; }\n\n                            #rt-nav-menu li:hover > a,\n\n                            #rt-nav-menu ul li:hover > a { background: url(img/nav-hover-bg.png) no-repeat 100% 0 transparent; }\n\n\n\n                        /* Display Sub Menu On Mouse Over */\n\n                            #rt-nav-menu li:hover > ul { display: block; }\n\n                                #rt-nav-menu li ul.sub-menu li.current-menu-item a { background: #3D3D3D; }\n\n                                #rt-nav-menu li ul.sub-menu li:hover,\n\n                                #rt-nav-menu li ul.sub-menu li a:hover { background: #393939; }\n\n                                #rt-nav-menu li ul.sub-menu li.current-menu-item a:hover { background: #393939; }\n\n\n\n                                /* Current Menu Style */\n\n                                    #rt-nav-menu li.current-menu-item > a,\n\n                                    #rt-nav-menu li.current_page_item > a { background: url(img/nav-hover-bg.png) no-repeat 100% 0 transparent; font-family: 'Museo700'; }\n\n                                    #rt-nav-menu a.current-menu { background: url(img/nav-hover-bg.png) no-repeat 100% 0 transparent; font-family: 'Museo700';  }\n\n\n\n/* ************************************************ */\n\n/* Post and Main Content Style			    */\n\n/* ************************************************ */\n\n\n\n/*Sticky Post Style*/\n\n.sticky {  }\n\n\n\n/* ************************************************ */\n\n/* Post Meta Style				    */\n\n/* ************************************************ */\n\n\n\n.post-meta { padding: 0 0 5px 10px; overflow: hidden; }\n\n.post-meta .author { background: url(img/author-icon.png) no-repeat 0 0; font-size: 11px; text-transform: capitalize; padding-left: 20px; }\n\n.post-meta .author a { color: #FFF; }\n\n.post-meta .author a:hover { color: #FFCC33; }\n\n.post-meta p.edit-post { float: right; font-size: 11px; padding-right: 10px; }\n\n\n\n\n\n/* ------------------------------------------- */\n\n/* Main Post Loop			       */\n\n/* ------------------------------------------- */\n\n\n\nh2.page-title { font-family: 'Museo300'; font-size: 46px; line-height: 100%; padding: 0 0 15px; }\n\n.fullwidth-content h2.page-title { background: url(\"img/fullwidth-page-title-bg.png\") no-repeat scroll 0 0 transparent; float: left; font-family: 'Museo300'; font-size: 20px; height: 52px; line-height: 100%; overflow: hidden; padding: 8px 0 0 15px; width: 951px; }\n\n#content-wrapper .getting-here-content h2.page-title { padding: 8px 0 0 30px; width: 936px; }\n\nh2.page-title a { color: #b5955c; }\n\nh2.page-title a:hover { color: #FFCC33; }\n\nh2.page-title span { font-family: 'Museo300'; font-size: 26px; color: #FFF; }\n\n\n\n.rt-post-container { background: url(img/blog-page-middle.png) repeat-y 0 0; position: relative; }\n\n.blog-bottom { background: url(\"img/blog-page-bottom.png\") no-repeat scroll 0 0 transparent; bottom: -16px; height: 16px; left: 0; position: absolute; width: 627px; }\n\n/*.blog-post .page-title { padding-left: 4px; }*/\n\n.page-title h2 { background: url(\"img/blog-page-title.png\") no-repeat scroll 0 0 transparent; font-family: 'Museo300'; font-size: 20px; height: 40px; line-height: 100%; padding: 9px 0 2px 18px; }\n\n#content .main-title h1 { background: url(\"img/blog-page-title.png\") no-repeat scroll 0 0 transparent; font-family: 'Museo300'; font-size: 20px; height: 30px; line-height: 100%; padding: 9px 0 2px 18px; }\n\nbody.page .post-title h1, h1.entry-title { background: url(\"img/blog-page-title.png\") no-repeat scroll 0 0 transparent; font-family: 'Museo300'; font-size: 20px; line-height: 100%; padding: 9px 0 2px 18px; height: 30px; left: -18px; position: relative; top: -5px; width: 606px; }\n\nbody.page .post-title, #content .main-title { height: 30px; min-height: 50px; }\n\n\n\n.post-container { margin-bottom: 8px; }\n\n.home .post-container { margin-bottom: 21px; }\n\n.post-container .hentry { padding-top: 0; }\n\n.readmore, #sidebar a.readmore { color: #FFCC33; font-weight: bold; }\n\n.readmore:hover, #sidebar a.readmore:hover { color: #CC9966; }\n\n.home .post, .home .hentry{ background: url(img/post-middle-bg.png) repeat-y 0 0; float: left; padding: 0 18px 18px; width: 592px; }\n\n.not-found { padding: 0px 18px 18px; width: 592px; }\n\n.post, .hentry { background: none; float: left; padding: 5px 18px 14px; width: 592px; }\n\n.fullwidth-content .post, .fullwidth-content .hentry { background: url(img/fullwidth-post-middle-bg.png) repeat-y 0 0; float: left; padding: 0 30px; width: 906px }\n\n#main-wrapper .course-content .post, #main-wrapper .course-content .hentry {  padding: 0; width: 966px; }\n\n.post-top { background: url(\"img/post-top-bg.png\") no-repeat scroll 0 0 transparent; float: left; height: 11px; overflow: hidden; width: 628px; }\n\n.fullwidth-content .post-top {  float: left;  }\n\n.post-bottom { background: url(img/post-bottom-bg.png) repeat 0 0; float: left; height: 14px; overflow: hidden; width: 628px; }\n\n.fullwidth-content .post-bottom { background: url(img/fullwidth-post-bottom-bg.png) repeat 0 0; float: left; height: 20px; overflow: hidden; width: 966px; }\n\n\n\n.hentry { clear: both;overflow: hidden; }\n\n    .post-title { position: relative; min-height: 70px; }\n\n    .not-found .post-title { position: relative; min-height: 50px; }\n\n    .post-title h1,\n\n    .post-title h2 { font-family: 'Museo300'; font-size: 26px; line-height: 110%; padding-left: 45px; }\n\n    .post-title h2 a { color: #b5955c; }\n\n    .post-title h2 a:hover { color: #FFCC33; }\n\n    .post-content { overflow: hidden; }\n\n    .blog-post .post-content, .archive .post-content, .search .post-content, .single-post .post-content { padding: 0 10px; }\n\n	.post-content p { margin-bottom: 20px; overflow: hidden; }\n\n	.post-content img{margin: 2px 5px;}\n\n            .post-content img.wp-smiley { border: medium none; margin: 0; padding: 0; }\n\n	.post-content blockquote {  }\n\n	.post-content code {  }\n\n	.post-content pre {  }\n\n        .page-link { clear: both; overflow: hidden; }\n\n        \n\n        .published { background: url(\"img/date-bg.png\") no-repeat scroll 0 0 transparent; float: left; font-family: 'Museo700'; font-size: 11px; font-weight: bold; height: 41px; left: -14px; line-height: 100%; padding-top: 6px; position: absolute; text-align: center; text-transform: uppercase; top: 9px; width: 46px; }\n\n        .published span { display: inline-block; font-size: 18px; line-height: 100%; margin-bottom: 4px; width: 46px; }\n\n        .rt-post-share { border-bottom: 1px solid #CCC; padding-bottom: 20px; width: 572px; }\n\n/* ------------------------------------------------------- */\n\n/* Prevent Images from Running Outside Content Area	   */\n\n/* ------------------------------------------------------- */\n\n	.post-content .wp-caption { max-width: 580px !important; }\n\n	    .post-content .wp-caption img { max-width: 560px !important; }\n\n	.post-content img { max-width: 580px !important; }\n\n\n\n        .course-image-container { padding: 0 0 37px 4px; height: 340px; overflow: hidden; }\n\n        .course-image-container img { max-width: 958px !important; }\n\n        #rt-course-holes { position: relative; visibility: hidden; }\n\n        #rt-course-holes .slider-pagination { background: url(\"img/course-nav-bg.png\") repeat-x scroll 0 0 transparent; height: 36px; left: 4px; margin: 0 auto; overflow: hidden; padding: 0 0 0 40px; position: absolute; top: 340px; width: 918px; z-index: 9999; }\n\n        #rt-course-holes .hole-content-container { float: left; padding: 0 30px 10px; width: 600px; }\n\n        #rt-course-holes .hole-partial-container { padding: 0 30px 10px; }\n\n        img.attachment-rt-holes { border: 1px solid #666; margin: 12px 10px 5px 0; }\n\n        .holes { background: transparent !important; }\n\n        #rt-course-holes .select-hole { font-family: 'Museo300'; font-size: 19px; float: left; color: #cc9966; padding: 5px 8px 0; }\n\n        #rt-slider-nav { float: left; }\n\n        #rt-slider-nav span { background: url(img/course-nav-separator.png) no-repeat 0 0; display: inline-block; }\n\n        #rt-slider-nav span a { color: #CC9966; font-family: 'Museo300'; font-size: 18px; display: inline-block; padding: 7px 9px 6px 10px; }\n\n        #rt-slider-nav span a:hover, #rt-slider-nav span.active a { background: url(img/course-active-bg.png) repeat-x 0 0; }\n\n        #rt-slider-nav span.active a { font-family: 'Museo500'; }\n\n        .course-holes-container h2.page-title { height: 25px; margin-bottom: 20px; padding: 8px 0 8px 30px; width: 936px; }\n\n        \n\n        .google-map-container { padding-left: 4px; }\n\n        .rt-left { float: left; width: 430px; }\n\n            .rt-left h2, .rt-right h2 { font-family: 'Museo300'; font-size: 28px; color: #b5955c; }\n\n            .rt-left a, .rt-right a { font-weight: bold; text-transform: uppercase; }\n\n            .rt-left p, .rt-right p { margin-bottom: 15px; }\n\n        .rt-right { float: right; width: 430px; }\n\n        \n\n/* ------------------------------------------------------- */\n\n/* Posted Images Style					   */\n\n/* ------------------------------------------------------- */\n\n#sidebar .post-img img { border: 2px solid #D9D9D9;margin: 10px 8px 10px 0;padding: 0; }\n\n.post-img img { margin: 0 0 10px; }\n\n.post-content .alignleft img { margin: 10px 15px 10px 0; }\n\n.post-content .alignright img { margin: 10px 0 10px 15px; }\n\n\n\n\n\np.attachment img { margin: 10px 0; }\n\n.post-content img.alignnone { margin: 10px 5px 10px 0; }\n\n.post-content img.aligncenter { margin: 10px auto; }\n\n.post-content img.alignleft { margin: 10px 15px 10px 0px; }\n\n.post-content img.alignright { margin: 10px 0px 10px 15px; }\n\n\n\n#content .gallery {margin: 0 auto 18px;}\n\n#content .gallery .gallery-item {float: left;margin-top: 0;	text-align: center;	width: 33%;}\n\n#content .gallery img {	border: 2px solid #cfcfcf;}\n\n#content .gallery img { border: 1px solid #999999; max-height: 94px; max-width: 170px !important; }\n\n#content .gallery dl {margin: 0;}\n\n#content .gallery img {border: 5px solid #f1f1f1;}\n\n#content .gallery br+br {display: none;}\n\n#content .attachment img { /* single attachment images should be centered */ display: block; margin: 0 auto;}\n\n\n\n.gallery-icon .attachment-thumbnail { margin: 5px auto; }\n\n\n\n#gallery-1 .gallery-caption { margin: 0; padding: 0; }\n\n#gallery-1 .gallery-item dt { background: none repeat scroll 0 0 transparent; font-weight: normal; padding: 0; }\n\n\n\n/*.wp-caption{width: 600px !important}*/\n\n		\n\n/* ************************************************ */\n\n/* Archive Page Style				    */\n\n/* ************************************************ */\n\n\n\n.archive #content h2 span.author-name { font-style: italic; font-weight: normal; }\n\n\n\n\n\n/* ************************************************ */\n\n/* Search Page Style				    */\n\n/* ************************************************ */\n\n.search #content .hentry {  }\n\n.search #content h2 span.search-title { font-style: italic; font-weight: normal; }\n\n\n\n/* ************************************************ */\n\n/* Breacrumb Style				    */\n\n/* ************************************************ */\n\n.breadcrumb { }\n\n	.breadcrumb a { }\n\n	.breadcrumb a:hover { }\n\n\n\n\n\n\n\n\n\n/* Social Buutons */\n\n.post .social-buttons{}\n\n    .post .social-buttons > div{ margin-right: 10px }\n\n    .post .social-buttons .facebook{}\n\n    .post .social-buttons .tweetmeme{}\n\n\n\n\n\n/* Paged Navigation */\n\n.wp-navigation {  padding: 0 24px 15px; }\n\n.wp-navigation a { background: url(img/post-pagination-bg.png) no-repeat 0 0; cursor: pointer; display: block; height: 26px; width: 69px; text-indent: -9999px; text-transform: uppercase; }\n\n.wp-navigation div.alignleft a { margin-left: 4px; }\n\n.wp-navigation div.alignright a { background-position: -73px 0; margin-right: 4px; text-decoration: none; width: 72px; }\n\n                \n\n/* ========== [ Sidebar Style ] ========== */\n\n    .widget { clear: both; }\n\n        #sidebar .widget-bottom { background: url(img/widget-bottom-bg.png) no-repeat; height: 15px; padding-bottom: 11px; width: 280px; overflow: hidden; }\n\n        #sidebar .offer-container .widget-bottom { margin-top: -6px; }\n\n        #sidebar .widget .offer-text { margin-top: -13px; padding: 0 4px; }\n\n        \n\n        .widget div.weather-widget-text { padding: 0 20px 14px; }\n\n        .widget div,\n\n        .widget .searchform,\n\n        .widget ul { background: url(img/widget-middle-bg.png) repeat-y;  padding: 0 18px 14px; overflow: hidden; }\n\n        \n\n        .widget .searchform { padding: 20px 18px 14px; }\n\n        .widget .widgettitle + .searchform { padding: 6px 18px 14px; }\n\n\n\n        .widget div div,\n\n        .widget div div div,\n\n        .widget div div div div,\n\n        .widget div div div div div,\n\n        .widget form div,\n\n        .widget ul div { background: none;  padding: 0; }\n\n\n\n        .widget ul { margin: 0; }\n\n        \n\n        .widget ul ul,\n\n        .widget ul ul ul,\n\n        .widget ul ul ul ul,\n\n        .widget ul ul ul ul ul{ background: none; padding: 0; margin-left: 20px; }\n\n        \n\n    .widgettitle { background: url(\"img/widget-title-bg.png\") no-repeat 0 0 transparent; font-family: 'Museo300'; font-size: 20px; font-weight: normal; height: 37px; padding: 7px 0 10px 15px; width: 303px; }\n\n        #sidebar li { border-bottom: 1px solid #CCCCCC; list-style: none outside none; padding: 4px 0 5px; }\n\n        #sidebar li li { border-bottom: 0; padding: 4px 0 3px; }\n\n        #sidebar a { color: #FFF; }\n\n        #sidebar a:hover { color: #FFCC33; }\n\n        \n\n        .widget .widget-container div.news-content:first-child, #sidebar .latest-news-fixing { border: 0; padding: 0; margin: 0 }\n\n        .widget .news-content { border-top: 1px solid #CCC; padding-top: 10px; margin-top: 10px; }\n\n        .news-content h2 { display: none; }\n\n        \n\n/* ========== [ Calendar Widget Style ] ========== */\n\n\n\n.widget_calendar { line-height: 22px; }\n\n    .widget_calendar caption { background: none repeat scroll 0 0 #666; font-variant: small-caps; padding: 2px; }\n\n    .widget_calendar table { text-align: center; width: 100%; }\n\n        .widget_calendar table th { background: none repeat scroll 0 0 #999; border-bottom: 1px solid #DDDDDD; font-size: 84.6%; }\n\n        .widget_calendar table td { color: #888888; font-size: 84.6%; }\n\n        .widget_calendar table td a { text-decoration: underline; }\n\n        .widget_calendar table td a:hover { text-decoration: none; }\n\n        .widget_calendar table #prev { text-align: left; }\n\n        .widget_calendar table .pad { text-align: center; }\n\n        .widget_calendar table #next { text-align: right; }\n\n        .widget_calendar table #today { font-weight: bold; }\n\n            .widget_calendar table #prev a:hover,\n\n            .widget_calendar table .pad a:hover,\n\n            .widget_calendar table #next a:hover,\n\n            .widget_calendar table #today a:hover { background: none repeat scroll 0 0 #EFEFEF; text-decoration: none; }\n\n\n\n/* ========== [ Sidebar Form Element Style ] ========== */\n\n#sidebar select { border-color: #AAAAAA #DDDDDD #DDDDDD #AAAAAA; border-style: solid; border-width: 1px; outline: none; width: 95%; }\n\ninput.search-text { float: left; }\n\ninput.searchsubmit {background: url(\"img/search-button.png\") no-repeat scroll 100% 0 transparent; border: 0 none; display: block; float: left; font-size: 16px; height: 26px; line-height: 26px; margin: 0; padding: 0; text-indent: -9999px; text-transform: uppercase; width: 83px; }\n\n/* ========== [ Copyrights Style ] ========== */\n\n#footer { color: #888888; font-size: 12px; line-height: 21px; margin: 0 auto;  height: 155px; overflow: hidden; padding: 30px 0 0; width: 960px; }\n\n.footer-menu { width: 185px; }\n\n.footer-menu li { background: url(\"img/footer-list-bullet.png\") no-repeat scroll 0 7px transparent; float: left; list-style: none outside none; padding: 0 0 2px 13px; width: 160px; }\n\n    .footer-menu li a, .footer-menu li a:visited { color: #FFF; text-transform: uppercase; }\n\n    .footer-menu li a:hover { color: #ffcc33; text-decoration: none; }\n\n    .footer-menu li.current-menu-item a { color: #ffcc33 }\n\n    \n\n.footer-logo { width: 160px; }   \n\n.rt-social-share { float: right; width: 305px; padding-top: 2px; }\n\n.copyright { font-size: 10px; margin: 0 auto; width: 960px; text-align: left;  padding-top: 13px; }\n\n    .copyright small { font-size: 11px; }\n\n.copyright a, .copyright a:visited { color: #FFF; }\n\n.copyright a:hover { color: #FFCC33; }\n\n\n\n/* ************************************************ */\n\n/* Other Styles					    */\n\n/* ************************************************ */\n\n\n\n.info, .success, .warning, .error { border: 1px solid;font-weight: bold;margin: 10px 0;padding: 5px 10px; }\n\n.info { background: none repeat scroll 0 0 #BDE5F8;color: #00529B; }\n\n.success { background: none repeat scroll 0 0 #DFF2BF;color: #4F8A10; }\n\n.warning { background: none repeat scroll 0 0 #FEEFB3;color: #9F6000; }\n\n.error { background: none repeat scroll 0 0 #FFBABA;color: #D8000C; }\n\n\n\n/* ************************************************ */\n\n/* Extra CSS for additonal elements, fixes          */\n\n/* ************************************************ */\n\n/*hide smiley added by wordpress stats plugin        */\n\n#wpstats { display: none; }\n\n\n\n/* Slider Css */\n\n#rt-home-slider { background: url(\"img/slider-bg.png\") no-repeat 0 0 transparent; height: 349px; margin-bottom: 21px; padding: 0 3px 0 4px; position: relative; width: 621px; }\n\n    #rt-home-slider .slider-container {  position: relative;  height: 341px; overflow: hidden; width: 621px; }\n\n    #rt-home-slider .slider-caption { background: url(\"img/slider-caption-bg.png\") repeat-x scroll 0 100% transparent;color: #CCCCCC; font-family: 'Museo300'; font-size: 16px; height: 29px; line-height: 100%; overflow: hidden; padding-left: 80px; padding-top: 12px; }\n\n        #rt-home-slider .slider-container .slides {  }\n\n            #rt-home-slider a.slider_previous { background: url(\"img/slider-buttons.png\") no-repeat scroll 0 0 transparent; bottom: 17px; cursor: pointer; display: block; height: 22px; left: 13px; position: absolute; text-indent: -9999px; text-transform: uppercase; width: 22px; z-index: 100; }\n\n            #rt-home-slider a.slider_next { background: url(\"img/slider-buttons.png\") no-repeat scroll -29px 0 transparent; bottom: 17px; cursor: pointer; display: block; height: 22px; left: 42px; position: absolute; text-indent: -9999px; text-transform: uppercase; width: 22px; z-index: 100; }\n\n\n\n/*Weather Widget stying*/\n\n.weather-widget-text caption { display: none; }\n\n.weather-widget-text th { font-weight: normal; padding-bottom: 8px; text-transform: uppercase; }\n\n.wp_wund_conditions { border-top: 1px solid #CCC; margin-top: 3px; }\n\n.weather-widget-text tbody td { border-top: 1px solid #CCCCCC; font-size: 11px; line-height: 150%; padding-top: 5px; }\n\n\n\n/*Email Subscriber form styling*/\n\n.enewsletter-container { background: url(img/newsletter-bg.png) no-repeat 0 0; height: 45px; overflow: hidden; padding: 11px 20px 0 18px; position: relative; }\n\n    .wpcf7-form label { font-family: 'Museo300'; font-size: 20px; float: left; margin-right: 18px; }\n\n    .enewsletter-container span.wpcf7-form-control-wrap { height: 26px; }\n\n    span.wpcf7-form-control-wrap { display: block; float: left; }\n\n    .wpcf7-form .email input, input.search-text { background: url(\"img/feed-input-bg.png\") no-repeat; border: 0 none; font-family: verdana; font-size: 12px; height: 25px; margin: 0; padding: 1px 5px 0; width: 167px; }\n\n    input.wpcf7-submit { background: url(\"img/feed-input-bg.png\") no-repeat scroll 100% 0 transparent; border: 0; display: block; float: left; height: 26px; font-size: 16px; line-height: 26px; text-indent: -9999px; text-transform: uppercase; width: 71px; margin: 0; padding: 0; }\n\n    #content div.wpcf7 .watermark { color: #333; font-size: 12px; }\n\n    .enewsletter-container span.wpcf7-not-valid-tip { background: #FFFFFF; border: 0 none; color: #FF0000; font-size: 13px; left: 0; padding: 2px 2px 1px 5px; position: absolute; top: 0; width: 170px; z-index: 100; }\n\n    \n\n    div.wpcf7-validation-errors { display: none !important; }\n\n    .enewsletter-container .wpcf7-mail-sent-ok { background: none repeat scroll 0 0 #398F14; border: 0 none; height: 35px; margin: 0;  padding: 12px 0 0 20px; position: absolute; right: 4px; top: 0; width: 600px; }\n\n    .enewsletter-container .wpcf7-mail-sent-ng { background: none repeat scroll 0 0 #FFFFFF; border: 0 none; color: #FF0000; height: 35px; margin: 0; padding: 12px 0 0 15px; position: absolute; right: 4px; top: 0; width: 605px; }\n\n    .enewsletter-container .ajax-loader { display: none; }\n\n    \n\n/*Contact Us form Styling*/\n\n.post-content .wpcf7-form { float: left; width: 236px; padding-right: 60px; }\n\n.post-content .wpcf7-form input.wpcf7-submit { float: right; }\n\n.wpcf7-form-control-wrap input { background: url(\"img/input-bg.png\") no-repeat scroll 0 0 transparent; border: 0 none; height: 26px; margin: 0; padding: 0 4px 0 6px; width: 226px; }\n\n.wpcf7-form-control-wrap textarea { background: url(\"img/comment-box-bg.png\") no-repeat scroll 0 0 transparent; border: 0 none; height: 120px; margin: 0; padding: 6px 4px 0 6px; width: 226px; font-size: 13px; }\n\n.post-content span.wpcf7-not-valid-tip { background: url(\"img/input-bg.png\") no-repeat scroll 0 0 transparent; border: 0 none; color: #FF0000; font-size: 13px; left: 0; padding: 0 4px 0 6px; position: absolute; top: 0; width: 226px; z-index: 100; }\n\ndiv.wpcf7-mail-sent-ok { font-size: 13px; }\n\n\n\n\n\n\n\n/*Nextgen Gallery Styling*/\n\n.hentry .ngg-gallery-thumbnail img { border: 1px solid #979797; margin: 0; padding: 0; }\n\n.ngg-galleryoverview .ngg-gallery-thumbnail-box:nth-child(4n+1){ margin-left: 0; }\n\n.ngg-gallery-thumbnail-box { margin: 0 0 20px 20px; }\n\n.hentry .ngg-gallery-thumbnail { margin: 0; }\n\n#shDisplay div#shTitle { background: url(\"img/thickbox-bottom-bg.png\") repeat-x scroll 0 -1px #282828; min-height: 41px; padding: 0 3px !important; }\n\n#shName { padding: 10px 0 10px 10px !important; text-align: left; }\n\nimg#shTopImg { border: 1px solid #999999 !important; padding: 0 !important; }\n\ndiv#shCount { display: none; }\n\n#shDisplay div#shTitle a { background: url(\"img/slider-buttons.png\") no-repeat scroll 0 0 transparent; cursor: pointer; display: block; height: 22px; margin-top: 8px !important; text-indent: -9999px; text-transform: uppercase; width: 22px !important; z-index: 100; }\n\n#shDisplay div#shTitle a#nextpic { background-position: -29px 0; }\n\ndiv#shShutter { min-width: 975px; }\n\n/* FOOTER SOCIAL */\n\n.rt-social-share h4 { font-family: 'Museo300'; font-size: 20px; font-weight: normal; color: white; }",
+			"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/style.css",
+			"file_size": 34329,
+			"file_write_time": 130943221306583657,
+			"settings":
+			{
+				"buffer_size": 33213,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n/*\nPlugin Name: Add Image Buttons\nDescription: Adds a shop now button and pinterest button to all images inserted via the media uploader\nVersion: 1.0\nAuthor: Paul Robinson\nAuthor URI: http://return-true.com\nLicense: GPL2\n\nNOTE: Could be split into separate files, but kept as one to keep it portable for client.\n\n*/\n\n$attachment_options = array(\n	'image_button_link' => array(\n		'label'			=> __('Image Button Link'),\n		'input'			=> 'text',\n		'helps'			=> __('Where should the button link to? Will not be displayed if left empty.'),\n		'required'		=> false,\n		'application'	=> 'image',\n		'exclusions'	=> array('audio', 'video')\n	)\n);\n\nClass Rt_Custom_Media_Fields {\n\n	private $media_fields = array();\n\n	public function __construct( $fields ) {\n		$this->media_fields = $fields;\n\n		add_action( 'wp_enqueue_scripts', array($this, 'addStyles') );\n		add_action( 'wp_enqueue_scripts', array($this, 'addScripts') );\n		add_filter( 'attachment_fields_to_edit', array($this, 'applyFilter'), 10, 2 );\n		add_filter( 'attachment_fields_to_save', array($this, 'saveFields'), 10, 2 );\n		add_filter( 'image_send_to_editor', array($this, 'modifyInsert'), 10, 8 );\n	}\n\n	public function addStyles() {\n		wp_enqueue_style( 'aib', plugin_dir_url( __FILE__ ) . 'css/aib.css', null, '1.0' );\n	}\n\n	public function addScripts() {\n		wp_enqueue_script( 'aib', plugin_dir_url( __FILE__ ) . 'js/aib.js', array('jquery'), '1.0', true );\n	}\n\n	public function modifyInsert( $html, $id, $caption, $title, $align, $url, $size, $alt ) {\n\n		$o = '';\n		$pinterest = '';\n		$postPerm = get_permalink( get_post_field( 'post_parent', $id) );\n		$media = wp_get_attachment_url($id);\n		$pintIcon = plugin_dir_url( __FILE__ ) . 'images/pinterest.png';\n\n		if( $link = get_post_meta( $id, '_image_button_link', true ) )\n			$pinterest = '<div class=\"shop-button\"><a href=\"' . $link . '\" class=\"shop-link\" target=\"_blank\" rel=\"nofollow\">Shop</a></div>';\n\n		$o = '<div class=\"rt-aib image-container\">' . $html . '<a href=\"http://pinterest.com/pin/create/button/?url=' . urlencode($postPerm) . '&media=' . urlencode($media) . '&description=' . urlencode($title) . '\" class=\"pinterest-share\" target=\"_blank\"><img src=\"' . $pintIcon . '\"></a>' . $pinterest . '</div>';\n\n		return $o;\n	}\n\n	public function applyFilter( $form_fields, $post = null ) {\n		if( !empty( $this->media_fields )) {\n			foreach( $this->media_fields as $field => $values ) {\n				if( preg_match( \"/\" . $values['application'] . \"/\", $post->post_mime_type) && ! in_array( $post->post_mime_type, $values['exclusions'] )) {\n					$meta = get_post_meta( $post->ID, '_' . $field, true);\n\n					switch( $values['input'] ) {\n						default:\n						case 'text':\n							$values['input'] = 'text';\n							break;\n\n						case 'textarea':\n							$values['input'] = 'textarea';\n							break;\n\n						//Other types would be here, but are not needed for this plugin\n					}\n\n					$values['value'] = $meta;\n\n					$form_fields[$field] = $values;\n				}\n			}\n		}\n\n		return $form_fields;\n	}\n\n	public function saveFields( $post, $attachment ) {\n		if( !empty( $this->media_fields ) ) {\n			foreach( $this->media_fields as $field => $values ) {\n				if( isset( $attachment[$field] ) ) {\n					if( strlen( trim( $attachment[$field] ) ) == 0 ) {\n						$post['errors'][$field]['errors'][] = __( $values['error_text'] );\n					} else {\n						update_post_meta( $post['ID'], '_' . $field, $attachment[$field]);\n					}\n				} else {\n					delete_post_meta( $post['ID'], '_' . $field);\n				}\n			}\n		}\n\n		return $post;\n	}\n}\n\n$rtcmf = new Rt_Custom_Media_Fields( $attachment_options );\n\n/**\n * Helper function for adding a shop & pinterest button to a featured image, use instead of WordPress' the_post_thumbnail();\n * Function prefix is to prevent function conflicts\n */\n\nfunction rt_post_thumbnail_with_buttons($size = 'thumbnail', $attr = array(),  $id = null) {\n\n	if(is_null($id))\n		global $post;\n\n	$tid = get_post_thumbnail_id( $post->ID );\n\n	$o = '';\n	$pinterest = '';\n	$postPerm = get_permalink( $post->ID );\n	$media = wp_get_attachment_url($tid);\n	$pintIcon = plugin_dir_url( __FILE__ ) . 'images/pinterest.png';\n	$html = wp_get_attachment_image($tid, $size, false, $attr);\n\n	if( $link = get_post_meta( $tid, '_image_button_link', true ) )\n		$pinterest = '<div class=\"shop-button\"><a href=\"' . $link . '\" class=\"shop-link\" target=\"_blank\" rel=\"nofollow\">Shop</a></div>';\n\n	$o = '<div class=\"rt-aib image-container\">' . $html . '<a href=\"http://pinterest.com/pin/create/button/?url=' . urlencode($postPerm) . '&media=' . urlencode($media) . '&description=' . urlencode(esc_attr(get_the_title($tid))) . '\" class=\"pinterest-share\" target=\"_blank\"><img src=\"' . $pintIcon . '\"></a>' . $pinterest . '</div>';\n\n	echo $o;\n}",
+			"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/add-image-buttons.php",
+			"file_size": 4832,
+			"file_write_time": 130945733868264256,
+			"settings":
+			{
+				"buffer_size": 4695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "(function($) {\n\n\n	var $cnt = $('.rt-aib.image-container')\n\n	$cnt.each(function() {\n		var $btns = $(this).find('.shop-button, .pinterest-share');\n		$(this).hover(function() {			\n			$btns.addClass('fadeIn');\n		}, function() {\n			$btns.removeClass('fadeIn');\n		});\n	});\n\n})(jQuery)",
+			"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/aib.js",
+			"file_size": 292,
+			"file_write_time": 130945737571348281,
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ".rt-aib.image-container {\n	position: relative;\n}\n\n.rt-aib .pinterest-share {\n	position: absolute;\n	bottom: 30px;\n	left: 30px;\n	height: 38px;\n	width: 38px;\n	text-align: center;\n	display: block;\n	opacity: 0;\n	-webkit-transition: opacity .5s;\n    transition: opacity .5s;\n}\n\n.rt-aib .shop-button {\n	position: absolute;\n	width: 110px;\n	height: 38px;\n	bottom: 30px;\n	right: 30px;\n	text-align: center;\n	display: block;\n	opacity: 0;\n    -webkit-transition: opacity .5s;\n    transition: opacity .5s;\n}\n\n.rt-aib .shop-button .shop-link {\n	/* Should be set in active theme */\n}\n\n.rt-aib .fadeIn {\n	opacity: 1;\n}",
+			"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/aib.css",
+			"file_size": 637,
+			"file_write_time": 130945736453135455,
+			"settings":
+			{
+				"buffer_size": 601,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 275.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/custom_functions.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/titan-framework/inc/edd-licensing/theme-updater-class.php",
+		"/E/Website/www/Natural/index.php",
+		"/E/Website/www/LisaSiteV3/Docs/wildlife.php",
+		"/E/Website/www/LisaSiteV3/index.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/typo.css",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/updater/ReturnTruePluginUpdater.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/titan-framework/lib/class-option-edd-license.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/aoitori.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/add-image-buttons.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/single.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/page-listing.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/titan-custom-types/class-option-license.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-content/plugins/aoitori/lib/updater/ReturnTruePluginUpdater.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-content/plugins/advanced-custom-fields-pro/pro/admin/connect.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/uninstall.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/docs-aoi-tori.html",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/titan-custom-types/class-option-twitter-tokens-valid.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/titan-custom-types/class-option-twitter-how-to.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/twig-filters/CustomTwigFilters.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/widgets/AoiToriWidget.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/templates/paragraph",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/templates/media",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/templates/list",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/css/aoitori-layout.css",
+		"//rt-ac66u/Work/Pete (PJ Productions)/wp-config.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/js/aoitori.ajax.js",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/docs-twitter-stream-pro.html",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/lib/widgets/TwitterStreamWidget.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/aoitori/twitter-stream.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream/twitter-stream.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream/twit_stream-fr_FR.mo",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream-pro/composer.json",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream-pro/docs-twitter-stream-pro.html",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/single-book.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream-pro/twitter-stream.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-admin/includes/class-wp-plugins-list-table.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-admin/includes/update.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream-pro/lib/updater/ReturnTruePluginUpdater.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-content/plugins/twitter-stream-pro/lib/updater/ReturnTruePluginUpdater.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-admin/plugins.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-admin/includes/class-wp-plugins-list-table.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/template-bookpress.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/conditionalThumb.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/indexBook.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/latestReleases.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/homePage.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/ivyHomeBlog.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream-pro/docs-twitter-stream-pro-orig.html",
+		"//rt-ac66u/Work/docs-zstore-premium-helper.html",
+		"/C/Server/Tutorials/Vagrant/rt/wp-content/plugins/twitter-stream-pro/twitter-stream.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-includes/update.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-content/plugins/easy-digital-downloads/includes/EDD_SL_Plugin_Updater.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-admin/includes/ajax-actions.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-admin/includes/class-wp-upgrader.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-admin/plugins.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-admin/includes/upgrade.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-admin/admin-ajax.php",
+		"/C/Server/Tutorials/Vagrant/rt/wp-admin/update.php",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream-v2/composer.json",
+		"/C/Server/Tutorials/Vagrant/wp/wp-content/plugins/twitter-stream-v2/twitter-stream.php",
+		"/C/Users/Paul/AppData/Local/Temp/Rar$DRa0.899/advanced-custom-fields-pro/pro/core/updates.php",
+		"/C/Users/Paul/AppData/Local/Temp/Rar$DRa0.125/advanced-custom-fields-pro/pro/api/api-pro.php",
+		"/C/Users/Paul/AppData/Local/Temp/Rar$DRa0.148/advanced-custom-fields-pro/pro/admin/settings-updates.php",
+		"/C/Users/Paul/AppData/Local/Temp/Rar$DRa0.047/advanced-custom-fields-pro/core/third_party.php",
+		"/C/Users/Paul/AppData/Local/Temp/Rar$DRa0.208/advanced-custom-fields-pro/admin/views/update.php",
+		"/C/Users/Paul/AppData/Local/Temp/Rar$DRa0.182/advanced-custom-fields-pro/admin/update.php",
+		"/C/Users/Paul/AppData/Local/Temp/Rar$DRa0.848/advanced-custom-fields-pro/admin/updates/5.0.0.php",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Gallery.php",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Celebrity.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/partials/nav.blade.php",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Http/Controllers/Auth/AuthController.php",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Http/Controllers/CelebrityController.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/js/init.js",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/app.blade.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/components/forms.styl",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Http/Controllers/GalleryController.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/gallery/all.blade.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/gallery/show.blade.php",
+		"/C/Server/Tutorials/Vagrant/puphpet/config.yaml",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/celebrity/index.blade.php",
+		"/C/Server/Tutorials/Vagrant/gallery/database/migrations/2015_09_24_185959_create_galleries_table.php",
+		"/C/Server/Tutorials/Vagrant/gallery/database/migrations/2015_10_15_143340_create_celebrities_table.php",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Image.php",
+		"/C/Server/Tutorials/Vagrant/gallery/config/filesystems.php",
+		"/C/Server/Tutorials/Vagrant/gallery/app/helpers.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/app.styl",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/vendor/imagepicker.styl",
+		"/C/Server/Tutorials/Vagrant/gallery/gulpfile.js",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/js/libs/imagepicker.js",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/gallery/index.blade.php",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Http/routes.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/components/celebrities.styl",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/components/galleries.styl",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/celebrity/index.blade",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Providers/RouteServiceProvider.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/gallery/create.blade.php",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/symfony/console/Helper/HelperSet.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/components/navigation.styl",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Http/Requests/StoreCelebrityRequest.php",
+		"/C/Server/Tutorials/Vagrant/gallery/app/Http/Requests/StoreGalleryRequest.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/celebrity/create.blade.php",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/aws/aws-sdk-php/src/S3/S3Client.php",
+		"/C/Users/Paul/AppData/Local/Temp/fz3temp-1/scripts.js",
+		"/C/Server/Tutorials/Vagrant/gallery/node_modules/laravel-elixir/tasks/scripts.js",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/js/libs/masonry.js",
+		"/C/Server/Tutorials/Vagrant/gallery/public/js/libs.js",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/views/auth/login.blade.php",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/components/buttons.styl",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/vendor/normalize.styl",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/variables",
+		"/C/Users/Paul/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/stylus/components",
+		"/C/Server/Tutorials/Vagrant/gallery/resources/assets/stylus/normalize.styl",
+		"/C/Users/Paul/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/C/Users/Paul/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme-Darker.sublime-theme",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/league/flysystem-aws-s3-v3/src/AwsS3Adapter.php",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/league/flysystem/src/Adapter/AbstractAdapter.php",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/symfony/finder/Adapter/AbstractAdapter.php",
+		"/C/Server/Tutorials/Vagrant/f/laravel/app/Http/Controllers/ImageController.php",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/league/flysystem/src/Filesystem.php",
+		"/C/Server/Tutorials/Vagrant/gallery/vendor/laravel/framework/src/Illuminate/Contracts/Filesystem/Cloud.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Server\\Tutorials\\Vagrant\\wp",
+			"C:\\Server\\Tutorials\\Vagrant\\wp\\wp-content\\plugins\\aoitori\\",
+			"C:\\Server\\Tutorials\\Vagrant\\rt",
+			"M:\\Backup\\chaptemp\\themes",
+			"M:\\Backup\\chaptemp\\plugins",
+			"M:\\Backup\\xampp\\htdocs\\goodmoney\\wp-content\\plugins\\wp-filebase-pro",
+			"C:\\Users\\Paul\\Downloads\\WP-Filebase-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"apply_filter( 'site_transient'",
+			"apply_filter( 'site_transient' . $transient",
+			"update_themes",
+			"set_site_transient( 'update_themes' )",
+			"update_themes",
+			"theme_update_transient",
+			"site_transient_update_themes",
+			"\"aoitori_license_status_$key\"",
+			"license",
+			"plugin_name",
+			"I",
+			"TF_I18NDOMAIN",
+			"ts_app_tab",
+			"exclude",
+			"screenName",
+			"'screenName'",
+			"'rts'",
+			"'replies'",
+			"replies",
+			"tw_",
+			"count",
+			"after_setup_theme",
+			"after_theme_setup",
+			"after_setup_theme",
+			"after_theme_setup",
+			"screen_name",
+			"'name'",
+			"'desc'",
+			"twitter stream",
+			"Something Something",
+			"getOption",
+			"aoitori_",
+			"tw_",
+			"twitterStream",
+			"ajax",
+			"tw_",
+			"tw",
+			"tw_",
+			"tw",
+			"twit_stream",
+			"add_image",
+			"Hashtag",
+			"checktokens",
+			"ts_app_tab",
+			"wp_plugin_update_rows",
+			"wp_plugin_update_rows()",
+			"after_plugin_row",
+			"product",
+			"wp_update_plugins",
+			"wp_ajax_update_plugin",
+			"update",
+			"update-plugins",
+			"wp_ajax_update-plugins",
+			"product",
+			"gallery",
+			"celeb",
+			"c",
+			"Galler",
+			"Galleries",
+			"gallery",
+			"38, 50, 56",
+			"nav",
+			"response",
+			"photo",
+			"this",
+			"taxonomy",
+			"retailer",
+			"property",
+			"files",
+			"wp_safe",
+			"user",
+			"id",
+			"taxonomy",
+			"span",
+			"title",
+			"pbrob",
+			"$term",
+			"term",
+			"dots",
+			"($line-height-computed / 2)",
+			"date",
+			"$container",
+			"grid",
+			"6 * HOUR_IN_SECONDS",
+			"$s",
+			"s",
+			"30",
+			"pluginPage",
+			"[]'",
+			"csi_text_field_3",
+			"csi_text_field_2",
+			"csi_text_field_1",
+			"csi_settings",
+			"csi_pluginPage_section",
+			"'pluginPage'",
+			"pluginPage",
+			"__( ",
+			", 'meh' )",
+			"csi_field_render",
+			"_render",
+			"csi_text_field_",
+			"$role",
+			"role",
+			"session",
+			"get",
+			"6",
+			":",
+			",.3",
+			".3",
+			".03",
+			"03",
+			".3",
+			"3",
+			"136,136,136,1",
+			"153,153,153",
+			"div",
+			"colors",
+			"brian",
+			"\"",
+			"hover",
+			"sidebar",
+			"side",
+			"vehicle-image",
+			"if(is_numeric($img)) {\n										//This is a fallback to allow old ACF fields holding attachment IDs to work along size array style ACF fields\n										$img = wp_get_attachment_image_src( $img, 'vehicle-preview');\n										$img = $img[0];\n									} else {\n										$img = $img['sizes']['vehicle-preview'];\n									}\n									?>",
+			"url",
+			"entry-title",
+			"entry",
+			"border-bottom"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"'$1' => '$1'",
+			"",
+			"'$1' => '$2',",
+			"\" ----- $1",
+			"\" ---- $1",
+			"\" --- $1",
+			"\" -- $1",
+			"\" - $1",
+			"$1",
+			"",
+			" \"$2\" => \"$1\",",
+			" ",
+			"\"$2\" => \"$1\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "aoitori.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20972,
+								20972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15825.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/titan-custom-types/class-option-twitter-how-to.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8300,
+								8300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2514.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "docs-aoi-tori.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27228,
+								27228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10821.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "composer.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1988,
+								1988
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33210,
+								33210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 28121.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/add-image-buttons.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1307,
+								1307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/aib.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Paul/AppData/Local/Temp/fz3temp-1/aib.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "aoitori.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Paul\\AppData\\Local\\Temp\\fz3temp-1\\aib.js"
+			],
+			[
+				"gallery",
+				"app\\Gallery.php"
+			],
+			[
+				"celeb",
+				"app\\Celebrity.php"
+			],
+			[
+				"gallerycon",
+				"app\\Http\\Controllers\\GalleryController.php"
+			],
+			[
+				"partials/n",
+				"resources\\views\\partials\\nav.blade.php"
+			],
+			[
+				"authcon",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"show.bl",
+				"resources\\views\\gallery\\show.blade.php"
+			],
+			[
+				"all.bl",
+				"resources\\views\\gallery\\all.blade.php"
+			],
+			[
+				"celebrity/in",
+				"resources\\views\\celebrity\\index.blade.php"
+			],
+			[
+				"sho.",
+				"resources\\views\\gallery\\show.blade.php"
+			],
+			[
+				"creategall",
+				"database\\migrations\\2015_09_24_185959_create_galleries_table.php"
+			],
+			[
+				"file",
+				"config\\filesystems.php"
+			],
+			[
+				"help",
+				"app\\helpers.php"
+			],
+			[
+				"image",
+				"app\\Image.php"
+			],
+			[
+				"init.js",
+				"resources\\assets\\js\\init.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"routes.ph",
+				"app\\Http\\routes.php"
+			],
+			[
+				"gallery/index",
+				"resources\\views\\gallery\\index.blade.php"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"routes",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"create",
+				"resources\\views\\gallery\\create.blade.php"
+			],
+			[
+				"helper",
+				"app\\helpers.php"
+			],
+			[
+				"helpers",
+				"vendor\\symfony\\console\\Helper\\HelperSet.php"
+			],
+			[
+				"show.",
+				"resources\\views\\gallery\\show.blade.php"
+			],
+			[
+				"navi",
+				"resources\\assets\\stylus\\components\\navigation.styl"
+			],
+			[
+				"partials/na",
+				"resources\\views\\partials\\nav.blade.php"
+			],
+			[
+				"index.bl",
+				"resources\\views\\gallery\\index.blade.php"
+			],
+			[
+				"gallery/cre",
+				"resources\\views\\gallery\\create.blade.php"
+			],
+			[
+				"controllers/auth",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"gallery/crea",
+				"resources\\views\\gallery\\create.blade.php"
+			],
+			[
+				"storegall",
+				"app\\Http\\Requests\\StoreGalleryRequest.php"
+			],
+			[
+				"storecele",
+				"app\\Http\\Requests\\StoreCelebrityRequest.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"celebrity",
+				"app\\Http\\Controllers\\CelebrityController.php"
+			],
+			[
+				"s3",
+				"vendor\\aws\\aws-sdk-php\\src\\S3\\S3Client.php"
+			],
+			[
+				"show",
+				"resources\\views\\gallery\\show.blade.php"
+			],
+			[
+				"init",
+				"resources\\assets\\js\\init.js"
+			],
+			[
+				"gulfi",
+				"gulpfile.js"
+			],
+			[
+				"components/galle",
+				"resources\\assets\\stylus\\components\\galleries.styl"
+			],
+			[
+				"elixir/scrip",
+				"node_modules\\laravel-elixir\\tasks\\scripts.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"libs",
+				"public\\js\\libs.js"
+			],
+			[
+				"app",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"login",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"login.",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"app.st",
+				"resources\\assets\\stylus\\app.styl"
+			],
+			[
+				"gallery/sho",
+				"resources\\views\\gallery\\show.blade.php"
+			],
+			[
+				"show.b",
+				"resources\\views\\gallery\\show.blade.php"
+			],
+			[
+				"app.blade",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"gallerycontrol",
+				"app\\Http\\Controllers\\GalleryController.php"
+			],
+			[
+				"abstract",
+				"vendor\\symfony\\finder\\Adapter\\AbstractAdapter.php"
+			],
+			[
+				"aws",
+				"vendor\\league\\flysystem-aws-s3-v3\\src\\AwsS3Adapter.php"
+			],
+			[
+				"config/files",
+				"config\\filesystems.php"
+			],
+			[
+				"flysystem",
+				"vendor\\league\\flysystem\\src\\Filesystem.php"
+			],
+			[
+				"contracts/cloud",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Filesystem\\Cloud.php"
+			],
+			[
+				"filesystemma",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\FilesystemManager.php"
+			],
+			[
+				"storage",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Storage.php"
+			],
+			[
+				"index.blade",
+				"resources\\views\\gallery\\index.blade.php"
+			],
+			[
+				"config/file",
+				"config\\filesystems.php"
+			],
+			[
+				"config/ap",
+				"config\\app.php"
+			],
+			[
+				"config/app",
+				"config\\app.php"
+			],
+			[
+				"login.bl",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"create.bl",
+				"resources\\views\\gallery\\create.blade.php"
+			],
+			[
+				"nav.bl",
+				"resources\\views\\partials\\nav.blade.php"
+			],
+			[
+				"createima",
+				"database\\migrations\\2015_09_24_211323_create_images_table.php"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"app.bl",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"show.blad",
+				"resources\\views\\gallery\\show.blade.php"
+			],
+			[
+				"bootstrap/var",
+				"node_modules\\bootstrap-sass\\assets\\stylesheets\\bootstrap\\_variables.scss"
+			],
+			[
+				"partials/nav",
+				"resources\\views\\partials\\nav.blade.php"
+			],
+			[
+				"app.bla",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"app.scss",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"gall",
+				"app\\Http\\Controllers\\GalleryController.php"
+			],
+			[
+				"flash",
+				"app\\Http\\Flash.php"
+			],
+			[
+				"hel",
+				"app\\helpers.php"
+			],
+			[
+				"app.",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"i",
+				"app\\Image.php"
+			],
+			[
+				"im",
+				"node_modules\\laravel-elixir\\node_modules\\browserify\\test\\ignore_missing.js"
+			],
+			[
+				"addima",
+				"app\\Http\\Requests\\AddImageRequest.php"
+			],
+			[
+				"ima",
+				"app\\Image.php"
+			],
+			[
+				"addim",
+				"app\\Http\\Requests\\AddImageRequest.php"
+			],
+			[
+				"chage",
+				"app\\Http\\Requests\\ChangeGalleryRequest.php"
+			],
+			[
+				"user.php",
+				"app\\User.php"
+			],
+			[
+				"changegaller",
+				"app\\Http\\Requests\\ChangeGalleryRequest.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"authorz",
+				"app\\Http\\Controllers\\Traits\\AuthorizedUsers.php"
+			],
+			[
+				"contro",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"galleryco",
+				"app\\Http\\Controllers\\GalleryController.php"
+			],
+			[
+				"pages",
+				"app\\Http\\Controllers\\PagesController.php"
+			],
+			[
+				"creategaller",
+				"database\\migrations\\2015_09_24_185959_create_galleries_table.php"
+			],
+			[
+				"auth",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"contr",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"controller",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"nav",
+				"resources\\views\\partials\\nav.blade.php"
+			],
+			[
+				"createim",
+				"database\\migrations\\2015_09_24_211323_create_images_table.php"
+			],
+			[
+				"authcontr",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"formb",
+				"vendor\\illuminate\\html\\FormBuilder.php"
+			],
+			[
+				"formbui",
+				"vendor\\illuminate\\html\\FormBuilder.php"
+			],
+			[
+				"create_ima",
+				"database\\migrations\\2015_09_24_211323_create_images_table.php"
+			],
+			[
+				"createimage",
+				"database\\migrations\\2015_09_24_211323_create_images_table.php"
+			],
+			[
+				"app.la",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"_commen",
+				"assets\\styles\\components\\_comments.scss"
+			],
+			[
+				"paperre",
+				"app\\Http\\Requests\\PaperRequest.php"
+			],
+			[
+				"helper.php",
+				"app\\Helpers\\Helper.php"
+			],
+			[
+				"paper",
+				"app\\Paper.php"
+			],
+			[
+				"4c4e3a7173941bb4fffffac19c4d471e",
+				"storage\\framework\\views\\4c4e3a7173941bb4fffffac19c4d471e"
+			],
+			[
+				"create_ta",
+				"database\\migrations\\2015_04_18_142505_create_tags_table.php"
+			],
+			[
+				"paper_tag",
+				"database\\migrations\\2015_04_18_144443_create_paper_tag_table.php"
+			],
+			[
+				"create_paper",
+				"database\\migrations\\2015_04_18_144443_create_paper_tag_table.php"
+			],
+			[
+				"create_tags",
+				"database\\migrations\\2015_04_18_142505_create_tags_table.php"
+			],
+			[
+				"entrust",
+				"config\\entrust.php"
+			],
+			[
+				"create_pap",
+				"database\\migrations\\2015_04_12_161917_create_papers_table.php"
+			],
+			[
+				"game.",
+				"app\\Game.php"
+			],
+			[
+				"translator",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Translation\\Translator.php"
+			],
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"illuminateform",
+				"vendor\\illuminate\\html\\FormBuilder.php"
+			],
+			[
+				"jav",
+				"config\\javascript.php"
+			],
+			[
+				"javas",
+				"vendor\\laracasts\\utilities\\src\\JavaScriptException.php"
+			],
+			[
+				"laracast",
+				"vendor\\laracasts\\utilities\\src\\PHPToJavaScriptTransformer.php"
+			],
+			[
+				"java",
+				"config\\javascript.php"
+			],
+			[
+				"create.blade",
+				"resources\\views\\papers\\create.blade.php"
+			],
+			[
+				"container",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php"
+			],
+			[
+				"local.php",
+				"vendor\\league\\flysystem\\src\\Adapter\\Local.php"
+			],
+			[
+				"imagepal",
+				"app\\Utils\\ImagePalette.php"
+			],
+			[
+				"app.b",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"game",
+				"app\\Game.php"
+			],
+			[
+				"game.php",
+				"app\\Game.php"
+			],
+			[
+				"e",
+				"lib\\extras.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Server\\Tutorials\\Vagrant\\wp\\wp-content\\plugins\\rt-update-api\\rt-update-api.sublime-project"
+			],
+			[
+				"toby",
+				"C:\\Server\\Tutorials\\Vagrant\\toby\\wp-content\\themes\\toby\\toby-estate.sublime-project"
+			],
+			[
+				"ad",
+				"C:\\Server\\Tutorials\\Vagrant\\tra\\wp-content\\themes\\advantage\\advantage.sublime-project"
+			],
+			[
+				"tob",
+				"C:\\Server\\Tutorials\\Vagrant\\toby\\wp-content\\themes\\toby\\toby-estate.sublime-project"
+			],
+			[
+				"citr",
+				"C:\\Server\\Tutorials\\Vagrant\\wp\\wp-content\\plugins\\green-reit-citrix\\green-reit-citrix.sublime-project"
+			],
+			[
+				"cit",
+				"C:\\Server\\Tutorials\\Vagrant\\wp\\wp-content\\plugins\\green-reit-citrix\\green-reit-citrix.sublime-project"
+			],
+			[
+				"cream",
+				"C:\\Server\\Tutorials\\Vagrant\\cream\\cream.sublime-project"
+			],
+			[
+				"gree",
+				"C:\\Server\\Tutorials\\Vagrant\\cream\\cream.sublime-project"
+			],
+			[
+				"adv",
+				"C:\\Server\\Tutorials\\Vagrant\\tra\\wp-content\\themes\\advantage\\advantage.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 185.0,
+		"selected_items":
+		[
+			[
+				"setPathPrefix",
+				"setPathPrefix"
+			]
+		],
+		"width": 1510.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
