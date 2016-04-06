@@ -2,3 +2,6 @@ docs-aoi-tori.html
 docs/site
 aoitori.sublime-project
 aoitori.sublime-workspace
+plugin-deploy.sh
+plugin-tag.sh
+.svnignore
