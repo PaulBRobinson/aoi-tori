@@ -1,9 +1,0 @@
-{
-    "require": {
-        "j7mbo/twitter-api-php": "dev-master",
-        "twig/twig": "~1.0"
-    },
-    "autoload": {
-        "classmap": ["lib/titan-custom-types", "lib/twig-filters", "lib/widgets"]
-    }
-}

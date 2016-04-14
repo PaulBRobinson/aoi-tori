@@ -1,7 +1,0 @@
-{% if tweets|length > 0 %}
-	<div class="aoitori_tweets">
-		{% for tweet in tweets %}
-			<p class="aoitori_tweet">{{ tweet.text|process(tweet) }}</p>
-		{% endfor %}
-	</div>
-{% endif %}

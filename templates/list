@@ -1,7 +1,0 @@
-{% if tweets|length > 0 %}
-	<ul class="aoitori_tweets">
-		{% for tweet in tweets %}
-			<li class="aoitori_tweet">{{ tweet.text|process(tweet) }}</li>
-		{% endfor %}
-	</ul>
-{% endif %}
