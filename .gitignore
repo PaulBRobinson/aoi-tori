@@ -5,4 +5,3 @@ aoitori.sublime-workspace
 plugin-deploy.sh
 plugin-tag.sh
 .svnignore
-/vendor/**/.git
