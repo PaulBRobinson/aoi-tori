@@ -1,0 +1,20 @@
+site_name: Aoi Tori Documentation
+pages:
+  - About: index.md
+  - Features: features.md
+  - Installation: install.md
+  - Setup: setup.md
+  - Useage: useage.md
+  - Options:
+    - 'Info': 'options/intro.md'
+    - 'API Keys': 'options/api-keys.md'
+    - 'Template': 'options/template.md'
+    - 'Basic Styles': 'options/styles.md'
+    - 'Advanced Styles': 'options/advanced-styles.md'
+  - 'Template Customization': templates.md
+  - 'Developer Notes': developer-notes.md
+  - ToDo: todo.md
+  - Bugs: bugs.md
+  - Support: support.md
+  - Miscellaneous: misc.md
+theme: readthedocs
