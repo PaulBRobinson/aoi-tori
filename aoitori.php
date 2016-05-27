@@ -3,7 +3,7 @@
 Plugin Name: Aoi Tori - Twitter Plugin
 Plugin URI: http://return-true.com/
 Description: A simple Twitter plugin designed to show a users Tweets. Includes built-in templates, custom templates, color options...
-Version: 1.0.1
+Version: 1.0.2
 Author: Paul Robinson
 Author URI: http://return-true.com
 Text Domain: aoitori

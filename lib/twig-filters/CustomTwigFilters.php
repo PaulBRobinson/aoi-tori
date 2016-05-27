@@ -9,15 +9,15 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 Class CustomTwigFilters {
 
 	/**
-	 * Uses the indices provided by Twitter to autolink hashtags, atreplies, and URLs (both media & otherwise). 
+	 * Uses the indices provided by Twitter to autolink hashtags, atreplies, and URLs (both media & otherwise).
 	 * Original str_replace system left (but commented out) as there could be undiscovered bugs in edge cases such as when any of the entites are cut short due to tweet quoting
-	 * 
-	 * 
-	 * @param  string  $string     
-	 * @param  object  $tweet      
-	 * @param  boolean $hash       
-	 * @param  boolean $atreply    
-	 * @param  boolean $hyperlinks 
+	 *
+	 *
+	 * @param  string  $string
+	 * @param  object  $tweet
+	 * @param  boolean $hash
+	 * @param  boolean $atreply
+	 * @param  boolean $hyperlinks
 	 * @return string  $string
 	 */
 	public function process($string, $tweet, $hash = true, $atreply = true, $hyperlinks = true) {
@@ -26,53 +26,13 @@ Class CustomTwigFilters {
 		$nStrLen = 0;
 		$indicesMove = 0;
 
-		//Hashtags
-		$hashtags = (isset($tweet->entities->hashtags) ? $tweet->entities->hashtags : false);
-
-		if($hashtags && !empty($hashtags) && $hash) {
-			foreach($hashtags as $hashtag) {
-				
-				$string = self::mb_substr_replace($string, '<a class="aoitori_hash_tag" href="http://twitter.com/search?q='.urlencode('#' . $hashtag->text).'" title="Search for #'.$hashtag->text.' on Twitter">', ($hashtag->indices[0] + $indicesMove), 0);
-
-				$nStrLen = mb_strlen($string);
-				$indicesMove = ($nStrLen - $oStrLen);
-
-				$string = self::mb_substr_replace($string, '</a>', ($hashtag->indices[1] + $indicesMove), 0);
-
-				$nStrLen = mb_strlen($string);
-				$indicesMove = ($nStrLen - $oStrLen);
-
-				//$string = str_replace('#' . $hashtag->text, '<a class="aoitori_hash_tag" href="http://twitter.com/search?q='.urlencode('#' . $hashtag->text).'" title="Search for #'.$hashtag->text.' on Twitter">#' . $hashtag->text . '</a>', $string);
-			}
-		}
-
-		//Users
-		$users = (isset($tweet->entities->user_mentions) ? $tweet->entities->user_mentions : false);
-
-		if($users && !empty($users) && $atreply) {
-			foreach($users as $user) {
-
-				$string = self::mb_substr_replace($string, '<a class="aoitori_atreply" href="http://twitter.com/'.urlencode($user->screen_name).'" title="View '.$user->screen_name.' profile on Twitter">', ($user->indices[0] + $indicesMove), 0);
-
-				$nStrLen = mb_strlen($string);
-				$indicesMove = ($nStrLen - $oStrLen);
-
-				$string = self::mb_substr_replace($string, '</a>', ($user->indices[1] + $indicesMove), 0);
-
-				$nStrLen = mb_strlen($string);
-				$indicesMove = ($nStrLen - $oStrLen);
-
-				//$string = str_replace('@' . $user->screen_name, '<a class="aoitori_atreply" href="http://twitter.com/'.urlencode($user->screen_name).'" title="View '.$user->screen_name.' profile on Twitter">@' . $user->screen_name . '</a>', $string);
-			}
-		}
-
 		//Standard URLs
 		$urls = (isset($tweet->entities->urls) ? $tweet->entities->urls : false);
 
 		if($urls && !empty($urls) && $hyperlinks) {
 			foreach($urls as $url) {
 
-				$string = self::mb_substr_replace($string, '<a class="aoitori_url" href="'.$url->url.'" title="Expanded link: ' . $url->display_url . '">', ($url->indices[0] + $indicesMove), 0);
+				$string = self::mb_substr_replace($string, '<a class="aoitori_url" href="'.$url->url.'">', ($url->indices[0] + $indicesMove), 0);
 
 				$nStrLen = mb_strlen($string);
 				$indicesMove = ($nStrLen - $oStrLen);
@@ -91,7 +51,7 @@ Class CustomTwigFilters {
 
 		if($media && !empty($media) && $hyperlinks) {
 			foreach($media as $item) {
-				
+
 				$string = self::mb_substr_replace($string, '<a class="aoitori_url" href="'.$item->url.'">', ($item->indices[0] + $indicesMove), 0);
 
 				$nStrLen = mb_strlen($string);
@@ -106,6 +66,45 @@ Class CustomTwigFilters {
 			}
 		}
 
+		//Hashtags
+		$hashtags = (isset($tweet->entities->hashtags) ? $tweet->entities->hashtags : false);
+
+		if($hashtags && !empty($hashtags) && $hash) {
+			foreach($hashtags as $hashtag) {
+
+				/*$string = self::mb_substr_replace($string, '<a class="aoitori_hash_tag" href="http://twitter.com/search?q='.urlencode('#' . $hashtag->text).'">', ($hashtag->indices[0] + $indicesMove), 0);
+
+				$nStrLen = mb_strlen($string);
+				$indicesMove = ($nStrLen - $oStrLen);
+
+				$string = self::mb_substr_replace($string, '</a>', ($hashtag->indices[1] + $indicesMove), 0);
+
+				$nStrLen = mb_strlen($string);
+				$indicesMove = ($nStrLen - $oStrLen);*/
+
+				$string = str_replace('#' . $hashtag->text, '<a class="aoitori_hash_tag" href="http://twitter.com/search?q='.urlencode('#' . $hashtag->text).'">#' . $hashtag->text . '</a>', $string);
+			}
+		}
+
+		//Users
+		$users = (isset($tweet->entities->user_mentions) ? $tweet->entities->user_mentions : false);
+
+		if($users && !empty($users) && $atreply) {
+			foreach($users as $user) {
+
+				/*$string = self::mb_substr_replace($string, '<a class="aoitori_atreply" href="http://twitter.com/'.urlencode($user->screen_name).'">', ($user->indices[0] + $indicesMove), 0);
+
+				$nStrLen = mb_strlen($string);
+				$indicesMove = ($nStrLen - $oStrLen);
+
+				$string = self::mb_substr_replace($string, '</a>', ($user->indices[1] + $indicesMove), 0);
+
+				$nStrLen = mb_strlen($string);
+				$indicesMove = ($nStrLen - $oStrLen);*/
+
+				$string = str_replace('@' . $user->screen_name, '<a class="aoitori_atreply" href="http://twitter.com/'.urlencode($user->screen_name).'">@' . $user->screen_name . '</a>', $string);
+			}
+		}
 
 		return $string;
 
@@ -115,14 +114,14 @@ Class CustomTwigFilters {
 	/**
 	 * Multi-byte substr_replace function as PHP does not provide a multi-byte version of substr_replace
 	 * Must be called statically as Twig uses filters out of $this context
-	 * 
+	 *
 	 * Credit to Stemar (https://gist.github.com/stemar/8287074)
-	 * 
-	 * @param  string 		$string      
+	 *
+	 * @param  string 		$string
 	 * @param  string/array $replacement
-	 * @param  integer 		$start       
-	 * @param  integer 		$length      
-	 * @return string              
+	 * @param  integer 		$start
+	 * @param  integer 		$length
+	 * @return string
 	 */
 	private static function mb_substr_replace($string, $replacement, $start, $length=NULL) {
 	    if (is_array($string)) {
