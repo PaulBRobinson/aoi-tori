@@ -2,8 +2,8 @@
 Contributors: Paul Robinson
 Tags: tweets, aoi tori, aoi, tori, twitter, social
 Requires at least: 4.0
-Tested up to: 4.5
-Stable tag: 1.0.1
+Tested up to: 4.7.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,12 @@ Rather than repeating everything here, you can find lots of info at [Aoi Tori's 
 3. Built in templates or roll your own
 
 == Changelog ==
+= 1.1 =
+* Add 'Time Ago' filter to Twig template to allow date to be shown
+
+= 1.0.2 =
+* Fix issue with URL, User, Hashtag link matching replacement
+
 = 1.0.1 =
 * Fix issue with missing dependencies
 

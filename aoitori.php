@@ -3,7 +3,7 @@
 Plugin Name: Aoi Tori - Twitter Plugin
 Plugin URI: http://return-true.com/
 Description: A simple Twitter plugin designed to show a users Tweets. Includes built-in templates, custom templates, color options...
-Version: 1.0.2
+Version: 1.1
 Author: Paul Robinson
 Author URI: http://return-true.com
 Text Domain: aoitori
@@ -768,6 +768,9 @@ Class AoiTori {
     //Add custom filters. Look in lib/twig-filters for actual code
     $process = new Twig_SimpleFilter('process', array('CustomTwigFilters', 'process'), array('is_safe' => array('html')));
     $twig->addFilter($process);
+    //Add Time Ago Filter. Look in lib/twig-filters for actual code
+    $timeAgo = new Twig_SimpleFilter('timeago', array('CustomTwigFilters', 'timeago'));
+    $twig->addFilter($timeAgo);
 
     //If echo is true return Twig render. If not return raw data.
     if($echo)
