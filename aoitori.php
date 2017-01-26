@@ -440,7 +440,7 @@ Class AoiTori {
       'name' => __('Template Code', 'aoitori'),
       'id' => 'template_code',
       'type' => 'textarea',
-      'desc' => __('Custom template for displaying your tweets, if the option above is not enabled changes will be saved but will have no effect. Uses Twig templating language. More information on the available varaiables is in the <a href="#">documentation</a>.', 'aoitori'),
+      'desc' => __('Custom template for displaying your tweets, if the option above is not enabled changes will be saved but will have no effect. Uses Twig templating language. More information on the available varaiables is in the <a href="https://nabesaka.github.io/aoi-tori/">documentation</a>.', 'aoitori'),
       'is_code' => 'true',
       'default' => '
 {% if tweets|length > 0 %}

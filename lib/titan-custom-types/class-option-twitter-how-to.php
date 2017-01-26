@@ -86,7 +86,7 @@ class TitanFrameworkOptionTwitterHowTo extends TitanFrameworkOption {
 						<?php
 							printf(
 								__('Check the <a href="%s" target="aoitori_app_tab">documentation</a> for more detailed information on how to use the plugin past this point. It is highly recommended you read though it at least once.', 'aoitori'),
-								plugin_dir_url( __FILE__ ) . '../../docs-aoi-tori.html'
+								 'https://nabesaka.github.io/aoi-tori/'
 							);
 						?>
 					</li>
